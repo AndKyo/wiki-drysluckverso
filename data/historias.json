@@ -1,0 +1,436 @@
+{
+  "historias": [
+    {
+      "id": "RanchiBizarreAventure",
+      "titulo": "Ranchi Bizarre Aventure",
+      "icono": "imagenes/historias/ranchi-bizarre-aventure.webp",
+      "portada": "imagenes/historias/ranchi-bizarre-aventure.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, emotiva",
+      "epoca": "Año 2020",
+      "orden": 1,
+      "sinopsis": "En un mundo donde la humanidad puede adoptar las apariencias y habilidades de personajes de la ficción, un joven llamado Ramchi funda la ciudad de Excalesol y lidera a los Hijos de Omnia, un grupo protector empuñado con un misterioso poder. Para defender su hogar, enfrentarán organizaciones secretas, amenazas capaces de manipular o robar la energía de Omnia, traiciones internas y dolorosas pérdidas en su búsqueda de artefactos prohibidos. Sin embargo, su mayor desafío será descubrir la verdad detrás de un secreto oscuro y cíclico que amenaza la existencia misma de su mundo.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 10,
+        "y": 16
+      }
+    },
+    {
+      "id": "buscando-un-proposito",
+      "titulo": "Buscando un propósito",
+      "icono": "imagenes/historias/buscando-un-proposito.webp",
+      "portada": "imagenes/historias/buscando-un-proposito.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 2,
+      "sinopsis": "Escribe aquí la sinopsis de «Buscando un propósito». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 30,
+        "y": 14
+      }
+    },
+    {
+      "id": "capitan-tsubasa",
+      "titulo": "Capitán Tsubasa: una nueva historia",
+      "icono": "imagenes/historias/capitan-tsubasa.webp",
+      "portada": "imagenes/historias/capitan-tsubasa.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 3,
+      "sinopsis": "Escribe aquí la sinopsis de «Capitán Tsubasa: una nueva historia». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 28,
+        "y": 90
+      }
+    },
+    {
+      "id": "camino-heroe",
+      "titulo": "El camino para ser un héroe",
+      "icono": "imagenes/historias/camino-heroe.webp",
+      "portada": "imagenes/historias/camino-heroe.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 4,
+      "sinopsis": "Escribe aquí la sinopsis de «El camino para ser un héroe». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 14,
+        "y": 44
+      }
+    },
+    {
+      "id": "precio-perfeccion",
+      "titulo": "El precio de la perfección",
+      "icono": "imagenes/historias/precio-perfeccion.webp",
+      "portada": "imagenes/historias/precio-perfeccion.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 5,
+      "sinopsis": "Escribe aquí la sinopsis de «El precio de la perfección». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 46,
+        "y": 76
+      }
+    },
+    {
+      "id": "ecos-corazon-fugaz",
+      "titulo": "Ecos de un corazón fugaz",
+      "icono": "imagenes/historias/ecos-corazon-fugaz.webp",
+      "portada": "imagenes/historias/ecos-corazon-fugaz.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 6,
+      "sinopsis": "Escribe aquí la sinopsis de «Ecos de un corazón fugaz». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 52,
+        "y": 16
+      }
+    },
+    {
+      "id": "amor-monstruo",
+      "titulo": "El amor que me convirtió en monstruo",
+      "icono": "imagenes/historias/amor-monstruo.webp",
+      "portada": "imagenes/historias/amor-monstruo.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 7,
+      "sinopsis": "Escribe aquí la sinopsis de «El amor que me convirtió en monstruo». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 40,
+        "y": 42
+      }
+    },
+    {
+      "id": "saga-reencarnacion",
+      "titulo": "La saga de la reencarnación",
+      "icono": "imagenes/historias/saga-reencarnacion.webp",
+      "portada": "imagenes/historias/saga-reencarnacion.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 8,
+      "sinopsis": "Escribe aquí la sinopsis de «La saga de la reencarnación». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 74,
+        "y": 30
+      }
+    },
+    {
+      "id": "luz-esperanza",
+      "titulo": "Luz de esperanza",
+      "icono": "imagenes/historias/luz-esperanza.webp",
+      "portada": "imagenes/historias/luz-esperanza.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 9,
+      "sinopsis": "Escribe aquí la sinopsis de «Luz de esperanza». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 88,
+        "y": 74
+      }
+    },
+    {
+      "id": "mensaje-arrepentimiento",
+      "titulo": "Mensaje de arrepentimiento",
+      "icono": "imagenes/historias/mensaje-arrepentimiento.webp",
+      "portada": "imagenes/historias/mensaje-arrepentimiento.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 10,
+      "sinopsis": "Escribe aquí la sinopsis de «Mensaje de arrepentimiento». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 90,
+        "y": 50
+      }
+    },
+    {
+      "id": "egoista-roshidere",
+      "titulo": "Un egoísta en Roshidere",
+      "icono": "imagenes/historias/egoista-roshidere.webp",
+      "portada": "imagenes/historias/egoista-roshidere.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 11,
+      "sinopsis": "Escribe aquí la sinopsis de «Un egoísta en Roshidere». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 64,
+        "y": 52
+      }
+    },
+    {
+      "id": "razon-proteger-sonrisas",
+      "titulo": "La razón para proteger sus sonrisas",
+      "icono": "imagenes/historias/razon-proteger-sonrisas.webp",
+      "portada": "imagenes/historias/razon-proteger-sonrisas.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 12,
+      "sinopsis": "Escribe aquí la sinopsis de «La razón para proteger sus sonrisas». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 68,
+        "y": 90
+      }
+    },
+    {
+      "id": "significado-vida",
+      "titulo": "El significado de mi vida",
+      "icono": "imagenes/historias/significado-vida.webp",
+      "portada": "imagenes/historias/significado-vida.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 13,
+      "sinopsis": "Escribe aquí la sinopsis de «El significado de mi vida». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 10,
+        "y": 72
+      }
+    },
+    {
+      "id": "detras-frialdad",
+      "titulo": "Detrás de esa frialdad",
+      "icono": "imagenes/historias/detras-frialdad.webp",
+      "portada": "imagenes/historias/detras-frialdad.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 14,
+      "sinopsis": "Escribe aquí la sinopsis de «Detrás de esa frialdad». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/@drysluck0974"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 90,
+        "y": 12
+      }
+    }
+  ],
+  "conexiones_grupos": [
+    {
+      "nombre": "Conexión 1",
+      "nota": "",
+      "historias": [
+        "RanchiBizarreAventure",
+        "buscando-un-proposito",
+        "camino-heroe"
+      ]
+    },
+    {
+      "nombre": "Conexión 2",
+      "nota": "",
+      "historias": [
+        "ecos-corazon-fugaz",
+        "buscando-un-proposito",
+        "amor-monstruo"
+      ]
+    },
+    {
+      "nombre": "Conexión 3",
+      "nota": "",
+      "historias": [
+        "precio-perfeccion",
+        "razon-proteger-sonrisas"
+      ]
+    },
+    {
+      "nombre": "Conexión 4",
+      "nota": "",
+      "historias": [
+        "saga-reencarnacion",
+        "detras-frialdad",
+        "mensaje-arrepentimiento",
+        "egoista-roshidere"
+      ]
+    },
+    {
+      "nombre": "Conexión 5",
+      "nota": "",
+      "historias": [
+        "saga-reencarnacion",
+        "luz-esperanza"
+      ]
+    },
+    {
+      "nombre": "Conexión 6",
+      "nota": "",
+      "historias": [
+        "significado-vida",
+        "camino-heroe"
+      ]
+    }
+  ]
+}

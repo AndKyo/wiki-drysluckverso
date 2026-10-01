@@ -1,0 +1,37 @@
+{
+  "media": [
+    {
+      "tipo": "opening",
+      "titulo": "Opening de Ranchi Bizarre Aventure",
+      "descripcion": "Opening oficial de la historia.",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "",
+      "url": "https://www.youtube.com/",
+      "miniatura": ""
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Ending de Ranchi Bizarre Aventure",
+      "descripcion": "Ending oficial de la historia.",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Canción del Personaje A",
+      "descripcion": "Tema original del personaje.",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Tráiler de una de tus historias",
+      "descripcion": "Adelanto de la historia.",
+      "historia": "",
+      "youtube_id": "",
+      "url": "https://www.youtube.com/"
+    }
+  ]
+}

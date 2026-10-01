@@ -1,0 +1,3273 @@
+{
+  "personajes": [
+    {
+      "id": "Ranchi1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ranchi(Ram)",
+      "titulo": "Lider de los hijos de omnia",
+      "avatar": "imagenes/personajes/RamchiPersonajes/ranchi1.webp",
+      "arte": "imagenes/arte/RamchiPersonajes/ranchi1.webp",
+      "descripcion": "Tiene el aspecto de Ram de Re zero Es extravagante, impredecible y muy bromista, y detrás del humor guarda una tristeza antigua. Exige mucho a su gente, sobre todo a Ikari. A medida que avanza la etapa, su carácter se endurece y su mirada se vuelve más fría",
+      "historia_personal": "Creció junto a su amiga Maika, quien desaparece y despues de ver su ciudad destruida, decide recontruirla con el poder de omnia",
+      "datos": {
+        "Edad": "20 años",
+        "Altura": "1.60 m",
+        "Cumpleaños": "12 de marzo",
+        "Ocupación": "lider"
+      },
+      "apariciones": [
+        {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
+      "opiniones": [
+        {
+          "target_id": "Ikari1",
+          "target_nombre": "Ikari",
+          "dialogos": [
+            "Es muy explotador",
+            "A pesar de su caracter, le tengo un profundo respeto.",
+            "Su fanatismo da miedo"
+          ]
+        },
+        {
+          "target_id": "Francis1",
+          "target_nombre": "Francis(subaru)",
+          "dialogos": [
+            "Es prácticamente como una mentor para mí. "
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Asuka1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Asuka1",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/asuka1.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Francis1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Francis(subaru)",
+      "titulo": "Segundo hijo de omnia",
+      "avatar": "imagenes/personajes/RamchiPersonajes/francis1.webp",
+      "arte": "imagenes/arte/RamchiPersonajes/francis1.webp",
+      "descripcion": "Aspecto de Subaru Natsuki, que después aparece como Araragi. Es leal, emocional e impulsivo, y habla con el corazón. Tiene una capacidad de recuperación poco común.",
+      "historia_personal": "Nunca improvisa. Es algo descuidad hasta que conoció a alguien que rompe todos sus cálculos.",
+      "datos": {
+        "Edad": "20 años",
+        "Altura": "1.70 m",
+        "Cumpleaños": "3 de octubre",
+        "Ocupación": "2 al mando"
+      },
+      "apariciones": [
+        {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
+      "opiniones": [
+        {
+          "target_id": "Ranchi1",
+          "target_nombre": "Ramchi (ram)",
+          "dialogos": [
+            "Si el es peor que yo, es que no me conocen",
+            "Su estilo impulsivo a veces me agrada."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Ikari1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ikari1",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ikari1.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manuel1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manuel(saber)",
+      "titulo": "3 hijo de omnia",
+      "avatar": "imagenes/personajes/RamchiPersonajes/manuel1.webp",
+      "arte": "imagenes/arte/RamchiPersonajes/manuel1.webp",
+      "descripcion": "Aspecto de Saber. Es el cerebro técnico del grupo: investiga, construye y resuelve problemas. Es tranquilo y piensa antes de actuar.",
+      "historia_personal": "Se retiró joven, pero nunca dejó de buscar desarollo.",
+      "datos": {
+        "Edad": "20 años",
+        "Ocupación": "3 al mando"
+      },
+      "apariciones": [
+        {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
+      "opiniones": [
+        {
+          "target_id": "Francis1",
+          "target_nombre": "Francis(subaru)",
+          "dialogos": [
+            "Mi buen saco de boxeo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Lobby1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Lobby1",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/lobby1.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manin1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manin1",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manin1.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Chocolat",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Chocolat",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/chocolat.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Mika",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Mika",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/mika.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Lobby2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Lobby2",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/lobby2.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Francis2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Francis2",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/francis2.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manin2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manin2",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manin2.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ikari2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ikari2",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ikari2.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manuel2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manuel2",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manuel2.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ranchi2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ranchi2",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ranchi2.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Asuka2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Asuka2",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/asuka2.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Buendigo1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Buendigo1",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/buendigo.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Astra-Sol",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Astra Sol",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Thomas",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Thomas",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/thomas.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Yato-Sakamichi",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Yato Sakamichi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/yato.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ikari3",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ikari3",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ikari3.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Buendigo2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Buendigo2",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manin4",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manin4",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manin4.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manuel3",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manuel3",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manuel3.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ranchi3",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ranchi3",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ranchi3.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Asuka3",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Asuka3",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/asuka3.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manuel4",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manuel4",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manuel4.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Franuel",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Franuel",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/franuel.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Akiko",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Akiko",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/akiko.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ikari4",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ikari4",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ikari4.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Kailed",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Kailed",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Gilgamesh",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Gilgamesh (Alma Reencarnada)",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Lobby3",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Lobby3",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/lobby3.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ruben",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ruben",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ruben.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Dream",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Dream",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/dream.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Asuka4",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Asuka4",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/asuka4.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ranchi4",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ranchi4",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ranchi4.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Francis3",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Francis3",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/francis3.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ikari5",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ikari5",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ikari5.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manin5",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manin5",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manin5.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manuel5",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manuel5",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manuel5.webp",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-tn-kawaragi1",
+      "historia": "buscando-un-proposito",
+      "nombre": "Tn Kawaragi1",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-reina-kanzaki1",
+      "historia": "buscando-un-proposito",
+      "nombre": "Reina Kanzaki1",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-anaxa1",
+      "historia": "buscando-un-proposito",
+      "nombre": "Anaxa1",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-special-week",
+      "historia": "buscando-un-proposito",
+      "nombre": "Special Week",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-silence-suzuka",
+      "historia": "buscando-un-proposito",
+      "nombre": "Silence Suzuka",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-trainer",
+      "historia": "buscando-un-proposito",
+      "nombre": "Trainer (Ryo)",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-tokai-teiou",
+      "historia": "buscando-un-proposito",
+      "nombre": "Tokai Teiou",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-mejiro-mcqueen",
+      "historia": "buscando-un-proposito",
+      "nombre": "Mejiro McQueen",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-daiwa-scarlet",
+      "historia": "buscando-un-proposito",
+      "nombre": "Daiwa Scarlet",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-vodka",
+      "historia": "buscando-un-proposito",
+      "nombre": "Vodka",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-tn-kawaragi2",
+      "historia": "buscando-un-proposito",
+      "nombre": "Tn Kawaragi2",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-reina-kanzaki2",
+      "historia": "buscando-un-proposito",
+      "nombre": "Reina Kanzaki2",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-anaxa2",
+      "historia": "buscando-un-proposito",
+      "nombre": "Anaxa2",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-haru-urara",
+      "historia": "buscando-un-proposito",
+      "nombre": "Haru Urara",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-rice-shower",
+      "historia": "buscando-un-proposito",
+      "nombre": "Rice Shower",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-still-in-love",
+      "historia": "buscando-un-proposito",
+      "nombre": "Still In Love",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-miyabi-oshizora",
+      "historia": "buscando-un-proposito",
+      "nombre": "Miyabi Oshizora",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-gentildonna",
+      "historia": "buscando-un-proposito",
+      "nombre": "Gentildonna",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-agnes-digital",
+      "historia": "buscando-un-proposito",
+      "nombre": "Agnes Digital",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-agnes-taychon",
+      "historia": "buscando-un-proposito",
+      "nombre": "Agnes Taychon",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-esmerald",
+      "historia": "buscando-un-proposito",
+      "nombre": "Esmerald",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-reina-kanzaki3",
+      "historia": "buscando-un-proposito",
+      "nombre": "Reina Kanzaki3",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-feinberg-agnes",
+      "historia": "buscando-un-proposito",
+      "nombre": "Feinberg Agnes",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-tsubasa-ozora",
+      "historia": "capitan-tsubasa",
+      "nombre": "Tsubasa Ozora",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-tsukushi",
+      "historia": "capitan-tsubasa",
+      "nombre": "Tsukushi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-ryo-ishisaki",
+      "historia": "capitan-tsubasa",
+      "nombre": "Ryo Ishisaki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-nana-shimura",
+      "historia": "capitan-tsubasa",
+      "nombre": "Nana Shimura",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-taro-misaki",
+      "historia": "capitan-tsubasa",
+      "nombre": "Taro Misaki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-kojiro-hyuga",
+      "historia": "capitan-tsubasa",
+      "nombre": "Kojiro Hyuga",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-genzo-wakabayashi",
+      "historia": "capitan-tsubasa",
+      "nombre": "Genzo Wakabayashi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-roberto-hongo",
+      "historia": "capitan-tsubasa",
+      "nombre": "Roberto Hongo",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-shingo-takasugi",
+      "historia": "capitan-tsubasa",
+      "nombre": "Shingo Takasugi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-ken-wakashimazu",
+      "historia": "capitan-tsubasa",
+      "nombre": "Ken Wakashimazu",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-mamoru-aizawa",
+      "historia": "capitan-tsubasa",
+      "nombre": "Mamoru Aizawa",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-teppei-kisugi",
+      "historia": "capitan-tsubasa",
+      "nombre": "Teppei Kisugi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-hajime-taki",
+      "historia": "capitan-tsubasa",
+      "nombre": "Hajime Taki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-kotetsu",
+      "historia": "capitan-tsubasa",
+      "nombre": "Kotetsu",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-sakurabi",
+      "historia": "capitan-tsubasa",
+      "nombre": "Sakurabi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-thoma",
+      "historia": "capitan-tsubasa",
+      "nombre": "Thoma",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-manabu",
+      "historia": "capitan-tsubasa",
+      "nombre": "Manabu",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-sanae-nakazawa",
+      "historia": "capitan-tsubasa",
+      "nombre": "Sanae Nakazawa",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-axel-blaze",
+      "historia": "capitan-tsubasa",
+      "nombre": "Axel Blaze (Goenji)",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-takeshi-sawada",
+      "historia": "capitan-tsubasa",
+      "nombre": "Takeshi Sawada",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-kyo",
+      "historia": "capitan-tsubasa",
+      "nombre": "Kyo",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-rin",
+      "historia": "capitan-tsubasa",
+      "nombre": "Rin",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-oota",
+      "historia": "capitan-tsubasa",
+      "nombre": "Oota",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-suguru-aizawa",
+      "historia": "capitan-tsubasa",
+      "nombre": "Suguru Aizawa",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-tn-midoriya",
+      "historia": "camino-heroe",
+      "nombre": "Tn Midoriya",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-kaori",
+      "historia": "camino-heroe",
+      "nombre": "Kaori",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-chimozuke",
+      "historia": "camino-heroe",
+      "nombre": "Chimozuke",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-oshino",
+      "historia": "camino-heroe",
+      "nombre": "Oshino",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-aoko-shizuka",
+      "historia": "camino-heroe",
+      "nombre": "Aoko Shizuka",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-shiroko",
+      "historia": "camino-heroe",
+      "nombre": "Shiroko",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-magia-estelar",
+      "historia": "camino-heroe",
+      "nombre": "Magia Estelar",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-chizuru-nanakase",
+      "historia": "precio-perfeccion",
+      "nombre": "Chizuru Nanakase",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-allen-nanakase",
+      "historia": "precio-perfeccion",
+      "nombre": "Allen Nanakase",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-aiko-takahashi",
+      "historia": "precio-perfeccion",
+      "nombre": "Aiko Takahashi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-yoyoko",
+      "historia": "precio-perfeccion",
+      "nombre": "Yoyoko",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-akubi",
+      "historia": "precio-perfeccion",
+      "nombre": "Akubi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-yuyu-uchida",
+      "historia": "precio-perfeccion",
+      "nombre": "Yuyu Uchida",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-hunko-honjo",
+      "historia": "precio-perfeccion",
+      "nombre": "Hunko Honjo",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-gin",
+      "historia": "precio-perfeccion",
+      "nombre": "Gin",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-hiroi",
+      "historia": "precio-perfeccion",
+      "nombre": "Hiroi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-shima",
+      "historia": "precio-perfeccion",
+      "nombre": "Shima",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-ikari-oshi-tn",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Ikari Oshi Tn",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-meisho-doto",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Meisho Doto",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-tamamo-cross",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Tamamo Cross",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-tm-opera",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Tm. Opera",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-ikari-sakura",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Ikari Sakura",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-rudolf",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Rudolf",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-anaxa-feinberg",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Anaxa Feinberg",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-super-creek",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Super Creek",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "amor-still-in-love",
+      "historia": "amor-monstruo",
+      "nombre": "Still In Love",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "amor-sakura-ikari",
+      "historia": "amor-monstruo",
+      "nombre": "Sakura Ikari",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "saga-kusanagi-tokisaki",
+      "historia": "saga-reencarnacion",
+      "nombre": "Kusanagi Tokisaki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "saga-yuki",
+      "historia": "saga-reencarnacion",
+      "nombre": "Yuki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "saga-jotaro",
+      "historia": "saga-reencarnacion",
+      "nombre": "Jotaro",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-kusanagi-kamado",
+      "historia": "luz-esperanza",
+      "nombre": "Kusanagi Kamado",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-emilia-kamado",
+      "historia": "luz-esperanza",
+      "nombre": "Emilia Kamado",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-hitori-gotou",
+      "historia": "luz-esperanza",
+      "nombre": "Hitori Gotou",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-nijika-ijichi",
+      "historia": "luz-esperanza",
+      "nombre": "Nijika Ijichi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-ryo-yamada",
+      "historia": "luz-esperanza",
+      "nombre": "Ryo Yamada",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-kita-ikuyo",
+      "historia": "luz-esperanza",
+      "nombre": "Kita Ikuyo",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-kotetsu",
+      "historia": "luz-esperanza",
+      "nombre": "Kotetsu",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-ayato",
+      "historia": "luz-esperanza",
+      "nombre": "Ayato (Tn Hiroko)",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-seika-ijichi",
+      "historia": "luz-esperanza",
+      "nombre": "Seika Ijichi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-pa-san",
+      "historia": "luz-esperanza",
+      "nombre": "Pa San",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-hiroi-kikuri",
+      "historia": "luz-esperanza",
+      "nombre": "Hiroi Kikuri",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-zackdock",
+      "historia": "luz-esperanza",
+      "nombre": "Zackdock",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-tn-ozora",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Tn Ozora",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-alya-mikhailovna-kujou",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Alya Mikhailovna Kujou",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-masha-mikhailovna",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Masha Mikhailovna",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-yuki-suou",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Yuki Suou",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-yoshinori",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Yoshinori",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-gotou",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Gotou",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-karen",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Karen",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-ayano",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Ayano",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-taniyama",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Taniyama",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-miyamae",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Miyamae",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-sora-kimichi",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Sora Kimichi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-saito",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Saito",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-extra-kun",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Extra-kun",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-capitan",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Capitán",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "egoi-tn",
+      "historia": "egoista-roshidere",
+      "nombre": "Tn",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "egoi-alya",
+      "historia": "egoista-roshidere",
+      "nombre": "Alya",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "egoi-masha",
+      "historia": "egoista-roshidere",
+      "nombre": "Masha",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-tn-tokisaki",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Tn Tokisaki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-satoru-haise",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Satoru Haise",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-allen-nanakase",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Allen Nanakase",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-nijika-ijichi",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Nijika Ijichi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-ryo-yamada",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Ryo Yamada",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-hitori-gotou",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Hitori Gotou",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-sasaki-tsuguko",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Sasaki Tsuguko",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-emiko-shinomiya",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Emiko Shinomiya",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-senjuro-kimiko",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Senjuro Kimiko",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-toho-yamagawa",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Toho Yamagawa",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-ai-oshino",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Ai Oshino",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-nakano-mika",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Nakano Mika",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-nene-ohyama",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Nene Ohyama",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-posion-yami",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Posion Yami",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-aiko-sato",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Aiko Sato",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-aiko-takashi",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Aiko Takashi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-tn-urami",
+      "historia": "significado-vida",
+      "nombre": "Tn Urami",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-utena-hiragi",
+      "historia": "significado-vida",
+      "nombre": "Utena Hiragi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-miyuki-yamazaki",
+      "historia": "significado-vida",
+      "nombre": "Miyuki Yamazaki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-kiwi-aragata",
+      "historia": "significado-vida",
+      "nombre": "Kiwi Aragata",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-morino-korisu",
+      "historia": "significado-vida",
+      "nombre": "Morino Korisu",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-tatsumi-yukine",
+      "historia": "significado-vida",
+      "nombre": "Tatsumi Yukine",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-minakami-sayo",
+      "historia": "significado-vida",
+      "nombre": "Minakami Sayo",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-tenkawa-kaoruko",
+      "historia": "significado-vida",
+      "nombre": "Tenkawa Kaoruko",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-hanabishi-haruka",
+      "historia": "significado-vida",
+      "nombre": "Hanabishi Haruka",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-shiroko-emiya",
+      "historia": "significado-vida",
+      "nombre": "Shiroko Emiya",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-tomo-itsuki",
+      "historia": "significado-vida",
+      "nombre": "Tomo Itsuki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-matama-akoya",
+      "historia": "significado-vida",
+      "nombre": "Matama Akoya",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-nemo-anemo",
+      "historia": "significado-vida",
+      "nombre": "Nemo Anemo",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "detr-capitan",
+      "historia": "detras-frialdad",
+      "nombre": "Capitán",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "detr-oshi",
+      "historia": "detras-frialdad",
+      "nombre": "Oshi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "detr-masha",
+      "historia": "detras-frialdad",
+      "nombre": "Masha",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    }
+  ]
+}
