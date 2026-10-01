@@ -33,7 +33,7 @@
       "icono": "imagenes/historias/buscando-un-proposito.webp",
       "portada": "imagenes/historias/buscando-un-proposito.webp",
       "fondo": "",
-      "estado": "En emisión",
+      "estado": "Finalizado",
       "genero": "Fanfic, drama, romance",
       "epoca": "Año 2025",
       "orden": 2,
@@ -102,19 +102,15 @@
       "icono": "imagenes/historias/precio-perfeccion.webp",
       "portada": "imagenes/historias/precio-perfeccion.webp",
       "fondo": "",
-      "estado": "En emisión",
-      "genero": "Fanfic, drama, romance",
-      "epoca": "Año ¿?",
+      "estado": "Finalizado",
+      "genero": "Fanfic, superacion, poesia, drama, romance",
+      "epoca": "Año 2024",
       "orden": 5,
-      "sinopsis": "Escribe aquí la sinopsis de «El precio de la perfección». Cuéntale al lector de qué trata: en qué mundo ocurre, quién es el protagonista, qué conflicto enfrenta y qué lo hace especial. Puedes mencionar a los personajes principales, los grupos u organizaciones importantes y la amenaza o el misterio que mueve la historia, sin revelar el final. Reemplaza este texto por el tuyo cuando quieras.",
+      "sinopsis": "En una familia donde la grandeza se mide por la frialdad y la perfección, dos hermanos crecieron bajo la sombra de. En un familia donde las emociones son vistas como debilidades y las conexiones humanas como distracciones, ambos hermanos tomarán caminos divergentes donde uno deberá decidir entre perpetuar un legado de indiferencia o abrazar la autenticidad que su hermana siempre defendió.",
       "enlaces": [
         {
           "plataforma": "Wattpad",
-          "url": "https://www.wattpad.com/user/Drysluck09"
-        },
-        {
-          "plataforma": "YouTube",
-          "url": "https://www.youtube.com/@drysluck0974"
+          "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
         }
       ],
       "conexiones": [],
