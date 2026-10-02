@@ -1,6 +1,5 @@
 {
   "media": [
-    ,
     {
       "tipo": "ending",
       "titulo": "Ending de Ranchi Bizarre Aventure",
@@ -24,8 +23,8 @@
       "historia": "",
       "youtube_id": "",
       "url": "https://www.youtube.com/"
-    }
-     {
+    },
+    {
       "tipo": "opening",
       "titulo": "Ranchi Bizarre Aventure Arco 1-6 opening",
       "descripcion": "Opening del arco 1-6",
@@ -43,7 +42,7 @@
       "url": "https://www.youtube.com/watch?v=EowZoWZBSNQ",
       "miniatura": ""
     },
-       {
+    {
       "tipo": "opening",
       "titulo": "Capitan Tsubasa Op Fan ma",
       "descripcion": "Opening semi-oficial de la historia Capitan Tsubasa una nueva historia",
