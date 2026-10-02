@@ -7,13 +7,13 @@
       "titulo": "Lider de los hijos de omnia",
       "avatar": "imagenes/personajes/RamchiPersonajes/ranchi1.webp",
       "arte": "imagenes/arte/RamchiPersonajes/ranchi1.webp",
-      "descripcion": "Tiene el aspecto de Ram de Re zero Es extravagante, impredecible y muy bromista, y detrás del humor guarda una tristeza antigua. Exige mucho a su gente, sobre todo a Ikari. A medida que avanza la etapa, su carácter se endurece y su mirada se vuelve más fría",
-      "historia_personal": "Creció junto a su amiga Maika, quien desaparece y despues de ver su ciudad destruida, decide recontruirla con el poder de omnia",
+      "descripcion": "Tiene el aspecto de Ram de Re zero y es algo extravagante, impredecible y muy bromista pero detrás del humor guarda una tristeza antigua. Exige mucho a su gente, sobre todo a Ikari y a medida que avanza la etapa, su carácter se endurece y su mirada se vuelve más fría",
+      "historia_personal": "Creció junto a su amiga Maika, ambos encontraron un poder pero con el pasar de los meses su ciudad fue destruida y su amiga desaparece. Despues de ver su ciudad destruida, decide recontruirla con el poder de omnia",
       "datos": {
-        "Edad": "20 años",
+        "Edad": "21 años",
         "Altura": "1.60 m",
         "Cumpleaños": "12 de marzo",
-        "Ocupación": "lider"
+        "Ocupación": "lider de los hijos de omnia"
       },
       "apariciones": [
         {
@@ -26,16 +26,14 @@
           "target_id": "Ikari1",
           "target_nombre": "Ikari",
           "dialogos": [
-            "Es muy explotador",
-            "A pesar de su caracter, le tengo un profundo respeto.",
-            "Su fanatismo da miedo"
+            "Es muy buen empleado, sino fuera tsudere"
           ]
         },
         {
           "target_id": "Francis1",
           "target_nombre": "Francis(subaru)",
           "dialogos": [
-            "Es prácticamente como una mentor para mí. "
+            "Es prácticamente como mi segunda mano derecha "
           ]
         }
       ]
@@ -43,19 +41,23 @@
     {
       "id": "Asuka1",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Asuka1",
-      "titulo": "¿?",
+      "nombre": "Asuka(Venti)",
+      "titulo": "Cuarto al mando",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/asuka1.webp",
-      "descripcion": "¿?",
+      "descripcion": "Tiene el aspecto de Venti. Es noble, sensible y amable. Es capaz de ver lo bueno en los demás y suele busca paz.",
       "historia_personal": "",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
+        "Edad": "19",
+        "Altura": "1.60",
         "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Ocupación": "4 al mando de hijos de omnia"
       },
-      "apariciones": [],
+      "apariciones": [        
+        {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }],
       "opiniones": []
     },
     {
@@ -65,13 +67,13 @@
       "titulo": "Segundo hijo de omnia",
       "avatar": "imagenes/personajes/RamchiPersonajes/francis1.webp",
       "arte": "imagenes/arte/RamchiPersonajes/francis1.webp",
-      "descripcion": "Aspecto de Subaru Natsuki, que después aparece como Araragi. Es leal, emocional e impulsivo, y habla con el corazón. Tiene una capacidad de recuperación poco común.",
-      "historia_personal": "Nunca improvisa. Es algo descuidad hasta que conoció a alguien que rompe todos sus cálculos.",
+      "descripcion": "Tiene el aspecto de Subaru Natsuki. Es leal, emocional e impulsivo",
+      "historia_personal": "Rara vez improvisa y es algo descuidado hasta que conoció a una chica.",
       "datos": {
         "Edad": "20 años",
         "Altura": "1.70 m",
         "Cumpleaños": "3 de octubre",
-        "Ocupación": "2 al mando"
+        "Ocupación": "2 al mando de los hijos de omnia"
       },
       "apariciones": [
         {
@@ -93,33 +95,38 @@
     {
       "id": "Ikari1",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Ikari1",
-      "titulo": "¿?",
+      "nombre": "Ikari(Tanya)",
+      "titulo": "3 hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/ikari1.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Tiene el aspecto de Tanya Degurechaff. Es serio, disciplinado y perfeccionista. Trabaja siempre bajo la exigencia de Ramchi y reservado con sus emociones aunque aveces es tsudere.",
+      "historia_personal": "Se unio a ramchi despues de que este le ofreciera su ayuda cuando nadie mas lo hizo, siendo razon por la cual lo respeta",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
+        "Edad": "18",
+        "Altura": "1,58",
         "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Ocupación": "3 al mando de los hijos de omnia"
       },
-      "apariciones": [],
+      "apariciones": [      
+        {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "Manuel1",
       "historia": "RanchiBizarreAventure",
       "nombre": "Manuel(saber)",
-      "titulo": "3 hijo de omnia",
+      "titulo": "5 hijo de omnia",
       "avatar": "imagenes/personajes/RamchiPersonajes/manuel1.webp",
       "arte": "imagenes/arte/RamchiPersonajes/manuel1.webp",
-      "descripcion": "Aspecto de Saber. Es el cerebro técnico del grupo: investiga, construye y resuelve problemas. Es tranquilo y piensa antes de actuar.",
-      "historia_personal": "Se retiró joven, pero nunca dejó de buscar desarollo.",
+      "descripcion": "Posee el aspecto de Saber y es el cerebro técnico del grupo. Investiga, construye y resuelve problemas con su caracter tranquilo y piensa antes de actuar.",
+      "historia_personal": "Se unio a ramchi para proteger la ciudad de excalesol despues de haber sido uno de los sobrevivientes del desastre de la ciudad",
       "datos": {
         "Edad": "20 años",
-        "Ocupación": "3 al mando"
+        "Ocupación": "3 al mando de los hijos de omnia"
       },
       "apariciones": [
         {
@@ -140,37 +147,47 @@
     {
       "id": "Lobby1",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Lobby1",
-      "titulo": "¿?",
+      "nombre": "Lobby(Sanji)",
+      "titulo": "Pasante",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/lobby1.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es carismático, amable y observador.",
+      "historia_personal": "Llego a la ciudad de excalesol junto a manin y despues de haber vivido los sucesos de chocolat , decidio proteger la ciudad",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
+        "Edad": "21",
+        "Altura": "1,70",
         "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Ocupación": "Pasante y ayudante de los hijos de omnia"
       },
-      "apariciones": [],
+      "apariciones": [
+           {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "Manin1",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Manin1",
-      "titulo": "¿?",
+      "nombre": "Manin(Sasuke)",
+      "titulo": "Pasante y ayudante",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/manin1.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Tiene el aspecto de Sasuke uchiha. Es leal, amable y dispuesto a acompañar a sus amigos.",
+      "historia_personal": "Es el amigo que nunca abandona a nadie, llegando a la ciudad tras meses perdido, buscando un sitio al que pertenecer.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
+        "Edad": "18",
+        "Altura": "1,60",
         "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Ocupación": "Pasante y ayudante de los hijos de omnia"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
       "opiniones": []
     },
     {
@@ -180,15 +197,20 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/chocolat.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es dulce, amable y protectora. Al inicio es alguien malvada pero despues se convierte en alguien muy emocional que se preocupa profundamente por sus amigos y está dispuesta a sacrificarse por ellos.",
+      "historia_personal": "u pasado está marcado por situaciones en las que tuvo que actuar en contra de su voluntad. Su relación con Francis y los demás termina siendo muy importante para ella, y aun después de convertirse irse continúa ayudándolos.",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
+        "Altura": "1,50",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
       },
-      "apariciones": [],
+      "apariciones": [
+          {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
       "opiniones": []
     },
     {
@@ -198,11 +220,11 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/mika.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es la amiga de la infancia de Ramchi, una niña que solo anhelaba vivir en paz bajo el aspecto de Maika.",
+      "historia_personal": "Tras ser secuestrada, su vida da un giro trágico al ser utilizada como un peón sim embargo su lealtad hacia Ramchi nunca desaparece.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
+        "Edad": "21",
+        "Altura": "1,60",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
       },
@@ -216,10 +238,10 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/lobby2.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Controla el tiempo, drena poder y oculta su verdadero aspecto hasta que lo revela.",
+      "historia_personal": "Fingir ser amable solamente para obtener el poder de omnia",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "21",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
@@ -231,16 +253,16 @@
       "id": "Francis2",
       "historia": "RanchiBizarreAventure",
       "nombre": "Francis2",
-      "titulo": "¿?",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/francis2.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Con el aspecto de Araragi sigue siendo leal, impulsivo y emocional. con la promesa a Chocolat de seguir sonriendo.",
+      "historia_personal": "Aunque sufre al presenciar muertes injustas y sentirse impotente frente a enemigos superiores, Francis se aferra a esta promesa como su motor para no perder la esperanza.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
+        "Edad": "21",
+        "Altura": "1,70",
         "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Ocupación": "2 lider de los hijos de omnia"
       },
       "apariciones": [],
       "opiniones": []
@@ -248,14 +270,14 @@
     {
       "id": "Manin2",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Manin2",
-      "titulo": "¿?",
+      "nombre": "Manin(Rengoku)",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/manin2.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Con aspecto de Rengoku y ahora es mas sonriente, mas fiel a ayudar a sus amigos pero sobre todo a Ikari",
+      "historia_personal": "Despues de los sucesos con chocolat y lobby, se convierte en parte de uno de los hijos de omnia",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "19",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
@@ -266,14 +288,14 @@
     {
       "id": "Ikari2",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Ikari2",
-      "titulo": "¿?",
+      "nombre": "Ikari(Kiritsugu)",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/ikari2.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Serio y exigente pero por dentro es amable, aunque se va un año y reaparece frío, como cazador de vampiros junto a Tobi.",
+      "historia_personal": "Despues de alejarse de sus amigos y reencontrarse con ellos, decide volver mas decidido a proteger a su ciudad y a sus compañeros",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "19",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
