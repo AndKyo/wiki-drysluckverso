@@ -24,9 +24,101 @@
       "youtube_id": "",
       "url": "https://www.youtube.com/"
     },
+        {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Ending final del fanfic (SKETCH - Boku no hero ).",
+      "descripcion": "Ending final de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "E-suK40_H28",
+      "url": "https://www.youtube.com/watch?v=E-suK40_H28"
+    },
     {
       "tipo": "ending",
-      "titulo": "Bocchi the rock - Luz de esperanza Ending v2 (SKETCH-Boku no hero ) Fin del arco de Yota.",
+      "titulo": "Bocchi the rock - Luz de esperanza temporada 3 ending ( kyoukai no kanata-daisy ) temporada final.",
+      "descripcion": "Ending de la temporada final de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "F68PFm6k3S8",
+      "url": "https://www.youtube.com/watch?v=F68PFm6k3S8"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Bocchi the rock - Luz de esperanza temporada 3 opening ( Papapa-Oresuki ) temporada final.",
+      "descripcion": "Opening de la temporada tres de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "Iwrr2Lc0xT8",
+      "url": "https://www.youtube.com/watch?v=Iwrr2Lc0xT8",
+      "miniatura": ""
+    },
+     {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Ending (SKETCH-Boku no hero ) Fin del arco especial.",
+      "descripcion": "Ending del arco special de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "ABe8CpOSE94",
+      "url": "https://www.youtube.com/watch?v=ABe8CpOSE94"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Ending del arco ayato the past hikari by jyukai",
+      "descripcion": "Ending del arco special de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "niwYH6fKp70",
+      "url": "https://www.youtube.com/watch?v=niwYH6fKp70"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "The past of Ayato ( SpecialZ-Jujutsu Kaisen) Opening. Bocchi the rock - Luz de esperanza cover.",
+      "descripcion": "Opening de la temporada especial de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "-lJpFDpjP3s",
+      "url": "https://www.youtube.com/watch?v=-lJpFDpjP3s",
+      "miniatura": ""
+    },
+       {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza final temporada 2 ending ( Mephisto [ Queen been ] Oshi no ko).",
+      "descripcion": "Ending final de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "OXa5TmjoM40",
+      "url": "https://www.youtube.com/watch?v=OXa5TmjoM40"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Ending 2 v3 (SKETCH-Boku no hero ) Fin del arco de Kasuo.",
+      "descripcion": "Ending dos version 3 de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "uc7Yej14UUo",
+      "url": "https://www.youtube.com/watch?v=uc7Yej14UUo"
+    },
+     {
+      "tipo": "opening",
+      "titulo": "Bocchi the rock - Luz de esperanza Temporada 2 opening 2 v2 [(IDOL x Bling-Bang-Bang-Born)(Mashup of Mashle2-Oshi no Ko)]",
+      "descripcion": "Opening 2 v2 de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "XSo1ZZTUY8c",
+      "url": "https://www.youtube.com/watch?v=XSo1ZZTUY8c",
+      "miniatura": ""
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza tempordada 2 ending v2 (Idol [Yoasobi] Oshi no ko)",
+      "descripcion": "Ending uno version 2 de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "eyjffZqfy2w",
+      "url": "https://www.youtube.com/watch?v=eyjffZqfy2w"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Bocchi the rock - Luz de esperanza Temporada 2 opening 2 [(IDOL x Bling-Bang-Bang-Born)(Mashup of Mashle2-Oshi no Ko)]",
+      "descripcion": "Opening 2 v2 de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "U-gaEhaGGU0",
+      "url": "https://www.youtube.com/watch?v=U-gaEhaGGU0",
+      "miniatura": ""
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Temporada 2 Ending 2 v2 (SKETCH-Boku no hero ) Fin del arco de Yota.",
       "descripcion": "Ending dos version 2 de la temporada dos de Luz de esperanza",
       "historia": "luz-esperanza",
       "youtube_id": "c-3OeRVqg9k",
@@ -34,7 +126,7 @@
     },
      {
       "tipo": "ending",
-      "titulo": "Bocchi the rock - Luz de esperanza Ending v1 (SKETCH-Boku no hero ) Fin del arco de Kotetsu.",
+      "titulo": "Bocchi the rock - Luz de esperanza Temporada 2 Ending 2 v1 (SKETCH-Boku no hero ) Fin del arco de Kotetsu.",
       "descripcion": "Ending dos de la temporada dos de Luz de esperanza",
       "historia": "luz-esperanza",
       "youtube_id": "g3bYAMj2r-4",
@@ -42,7 +134,7 @@
     },
     {
       "tipo": "ending",
-      "titulo": "Bocchi the rock - Luz de esperanza Ending 2 (Idol [Yoasobi] Oshi no ko).",
+      "titulo": "Bocchi the rock - Luz de esperanza Temporada 2 Ending (Idol [Yoasobi] Oshi no ko).",
       "descripcion": "Ending uno de la temporada dos de Luz de esperanza",
       "historia": "luz-esperanza",
       "youtube_id": "ldy4KwX1gAs",
@@ -50,7 +142,7 @@
     },
     {
       "tipo": "opening",
-      "titulo": "Bocchi the rock - Luz de esperanza temporada 2 opening remake ( Open your eyes-Occultic;Nine)",
+      "titulo": "Bocchi the rock - Luz de esperanza temporada 2 opening ( Open your eyes-Occultic;Nine)",
       "descripcion": "Opening de la temporada dos de Luz de esperanza",
       "historia": "luz-esperanza",
       "youtube_id": "730SKYud1dU",
