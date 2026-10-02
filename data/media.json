@@ -24,6 +24,56 @@
       "youtube_id": "",
       "url": "https://www.youtube.com/"
     },
+     {
+      "tipo": "opening",
+      "titulo": "Bocchi the rock - Luz de esperanza Opening fanfic (disponible en Wattpad)( Seishun Complex-BTR )",
+      "descripcion": "Opening de la temporada uno de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "BKoIzSaTXts",
+      "url": "https://www.youtube.com/watch?v=BKoIzSaTXts",
+      "miniatura": ""
+    },
+    {
+      "tipo": "video",
+      "titulo": "Ranchi Bizarre Aventure Arco 4-6 resumen",
+      "descripcion": "Resumen del Arco de Ikari",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "10tdc2pIwJs",
+      "url": "https://www.youtube.com/watch?v=10tdc2pIwJs"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Ranchi Bizarre Aventure Arco 1-3 resumen",
+      "descripcion": "Resumen del Arco de chocolat",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "mOpgchVv2k0",
+      "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Ranchi Bizarre Aventure special arc avance",
+      "descripcion": "Este solo es un parte del special que ando haciendo, aunque no se si voy a subirle toco completo asi que solo subo una parte.",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "ar8ECmZ9iAI",
+      "url": "https://www.youtube.com/watch?v=ar8ECmZ9iAI"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Ranchi´s Bizare Aventure ending Arco de Chocolat y Ikari",
+      "descripcion": "Ending saga de chocolat arco 1 - 6 ",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "HR_8hWIrcPw",
+      "url": "https://www.youtube.com/watch?v=HR_8hWIrcPw"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Ranchi´s Bizare Aventure opening Saga Chocolat",
+      "descripcion": "Opening oficial del arco de 1 -3",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "hpfcodK0M38",
+      "url": "https://www.youtube.com/watch?v=hpfcodK0M38",
+      "miniatura": ""
+    },
     {
       "tipo": "opening",
       "titulo": "Ranchi Bizarre Aventure Arco 1-6 opening v2",
