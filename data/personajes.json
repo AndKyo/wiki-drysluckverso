@@ -13,7 +13,7 @@
         "Edad": "21 años",
         "Altura": "1.60 m",
         "Cumpleaños": "12 de marzo",
-        "Ocupación": "lider de los hijos de omnia"
+        "Ocupación": "Lider de los hijos de omnia"
       },
       "apariciones": [
         {
@@ -42,7 +42,7 @@
       "id": "Asuka1",
       "historia": "RanchiBizarreAventure",
       "nombre": "Asuka(Venti)",
-      "titulo": "Cuarto al mando",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/asuka1.webp",
       "descripcion": "Tiene el aspecto de Venti. Es noble, sensible y amable. Es capaz de ver lo bueno en los demás y suele busca paz.",
@@ -51,7 +51,7 @@
         "Edad": "19",
         "Altura": "1.60",
         "Cumpleaños": "¿?",
-        "Ocupación": "4 al mando de hijos de omnia"
+        "Ocupación": "Cuarto al mando de hijos de omnia"
       },
       "apariciones": [        
         {
@@ -64,7 +64,7 @@
       "id": "Francis1",
       "historia": "RanchiBizarreAventure",
       "nombre": "Francis(subaru)",
-      "titulo": "Segundo hijo de omnia",
+      "titulo": "Hijo de omnia",
       "avatar": "imagenes/personajes/RamchiPersonajes/francis1.webp",
       "arte": "imagenes/arte/RamchiPersonajes/francis1.webp",
       "descripcion": "Tiene el aspecto de Subaru Natsuki. Es leal, emocional e impulsivo",
@@ -73,7 +73,7 @@
         "Edad": "20 años",
         "Altura": "1.70 m",
         "Cumpleaños": "3 de octubre",
-        "Ocupación": "2 al mando de los hijos de omnia"
+        "Ocupación": "Segundo al mando de los hijos de omnia"
       },
       "apariciones": [
         {
@@ -96,7 +96,7 @@
       "id": "Ikari1",
       "historia": "RanchiBizarreAventure",
       "nombre": "Ikari(Tanya)",
-      "titulo": "3 hijo de omnia",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/ikari1.webp",
       "descripcion": "Tiene el aspecto de Tanya Degurechaff. Es serio, disciplinado y perfeccionista. Trabaja siempre bajo la exigencia de Ramchi y reservado con sus emociones aunque aveces es tsudere.",
@@ -105,7 +105,7 @@
         "Edad": "18",
         "Altura": "1,58",
         "Cumpleaños": "¿?",
-        "Ocupación": "3 al mando de los hijos de omnia"
+        "Ocupación": "Tercer al mando de los hijos de omnia"
       },
       "apariciones": [      
         {
@@ -119,7 +119,7 @@
       "id": "Manuel1",
       "historia": "RanchiBizarreAventure",
       "nombre": "Manuel(saber)",
-      "titulo": "5 hijo de omnia",
+      "titulo": "Hijo de omnia",
       "avatar": "imagenes/personajes/RamchiPersonajes/manuel1.webp",
       "arte": "imagenes/arte/RamchiPersonajes/manuel1.webp",
       "descripcion": "Posee el aspecto de Saber y es el cerebro técnico del grupo. Investiga, construye y resuelve problemas con su caracter tranquilo y piensa antes de actuar.",
@@ -171,7 +171,7 @@
       "id": "Manin1",
       "historia": "RanchiBizarreAventure",
       "nombre": "Manin(Sasuke)",
-      "titulo": "Pasante y ayudante",
+      "titulo": "Pasante ",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/manin1.webp",
       "descripcion": "Tiene el aspecto de Sasuke uchiha. Es leal, amable y dispuesto a acompañar a sus amigos.",
@@ -280,7 +280,7 @@
         "Edad": "19",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Ocupación": "Quinto de los hijos de omnia"
       },
       "apariciones": [],
       "opiniones": []
@@ -298,7 +298,7 @@
         "Edad": "19",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Ocupación": "Cuarto al mando de los hijos de omnia"
       },
       "apariciones": [],
       "opiniones": []
@@ -306,17 +306,17 @@
     {
       "id": "Manuel2",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Manuel2",
-      "titulo": "¿?",
+      "nombre": "Manuel(Joker)",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/manuel2.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "",
+      "historia_personal": "Su evolución lo lleva a desarrollar una mayor desconfianza y agudeza, siendo el primero en percatarse de los inquietantes y sutiles cambios en la personalidad de sus aliados más cercanos.",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Ocupación": "Tercer al mando de los hijos de omnia"
       },
       "apariciones": [],
       "opiniones": []
@@ -324,14 +324,14 @@
     {
       "id": "Ranchi2",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Ranchi2",
+      "nombre": "Ranchi(Batman)",
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/ranchi2.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es excéntrico e imprevisible, y pierde su humor por la pérdida de Mika.",
+      "historia_personal": "Tras la muerte de Maika se vuelve frío y severo, el "Ramchi Batman" decidido a cubrir venganza por quien la hizo desaparecer",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "22",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
@@ -342,17 +342,17 @@
     {
       "id": "Asuka2",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Asuka2",
-      "titulo": "¿?",
+      "nombre": "Asuka(Renly)",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/asuka2.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es amable como siempre y mas cuando se enamora de una chica que conocio",
+      "historia_personal": "Despues de perder a Fumiko, pierde el control cuando ella muere y sigue el camino de la venganza hacia su atacante",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "20",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Ocupación": "Sexto al mando de hijos de omnia"
       },
       "apariciones": [],
       "opiniones": []
@@ -360,14 +360,14 @@
     {
       "id": "Buendigo1",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Buendigo1",
-      "titulo": "¿?",
+      "nombre": "Buendigo(Deku)",
+      "titulo": "Pasante",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/buendigo.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "En la historia original hace batallas de pokeduel pero en la historia es un chico amable y desea ser un hijo de omnia",
+      "historia_personal": "Al igual que manin, llego a la ciudad para buscar un futuro mejor y al ver como los hijos de omnia trabajaban decide ser uno de estos y unirse a sus filas",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "18",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
@@ -379,14 +379,14 @@
       "id": "Astra-Sol",
       "historia": "RanchiBizarreAventure",
       "nombre": "Astra Sol",
-      "titulo": "¿?",
+      "titulo": "Reencarnada",
       "avatar": "",
       "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Su personalidad se caracteriza por una fuerte resistencia a permanecer sometida y por luchar constantemente contra quienes intentan detenerla.",
+      "historia_personal": "Astra permaneció encerrada durante siglos dentro de un objeto original. Hace un pacto con Manin para ocupar su cuerpo y ayudar a sus amigos pero detras de este trato, ella quiere terminar con el mundo al saber la verdad del mundo.",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
+        "Altura": "1,70",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
       },
@@ -400,11 +400,11 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/thomas.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "burlón, provocador y bastante cruel. Le gusta provocar a sus enemigos, especialmente a Asuka y parece disfrutar de llevarlo al límite emocionalmente. También es muy seguro de sí mismo y no muestra demasiada preocupación por el sufrimiento que causa.",
+      "historia_personal": "Thomas trabaja junto a Ayato y Sakamaki y participa en sus planes para conseguir los artefactos relacionados con el poder de Omnia",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
+        "Altura": "1,75",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
       },
@@ -418,8 +418,8 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/yato.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es arrogante, confiado y disfruta demostrando su superioridad frente a sus enemigos. Incluso cuando encuentra dificultades, suele mantener una actitud burlona y fría.",
+      "historia_personal": "Ayato persigue el poder de Omnia convencido de que puede darle un poder extraordinario. Durante su enfrentamiento con Francis demuestra tener una capacidad de regeneración muy avanzada, además de otras habilidades que hacen de él uno de los principales obstáculos para los hijos de omnia",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
@@ -432,14 +432,14 @@
     {
       "id": "Ikari3",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Ikari3",
-      "titulo": "¿?",
+      "nombre": "Ikari(Xu Fuan)",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/ikari3.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Estratega tranquilo y agradecido de tener a sus amigos, que no le importaria sacrificarse por ellos",
+      "historia_personal": "Despues de los acontecimientos de Astra sol, Ikari le tiene mas apego a sus amigos a un punto que no le importa dar su vida con tal de que sus amigos esten bien y a pesar de su caracter frio por dentro es agradecido de estar rodeado con gente que lo adora",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "20",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
@@ -450,14 +450,14 @@
     {
       "id": "Buendigo2",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Buendigo2",
-      "titulo": "¿?",
+      "nombre": "Buendigo(Jhon Urdinary)",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Posee su caracter alegre , aprendiendo a controlar sus nuevo poderes de copiar habilidades para ayudar mas a los hijos de omnia ",
+      "historia_personal": "Despues de haber sido piesa cable contra Astra sol, ramchi le da el poder de hijo de omnia y convirtiendose en uno de los que protegen a Excalesol ",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "19",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
@@ -468,14 +468,14 @@
     {
       "id": "Manin4",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Manin4",
-      "titulo": "¿?",
+      "nombre": "Manin4(Asta)",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/manin4.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "A pesar de los años sigue siendo un chico amable, cambio su aspecto a Asta para poder contrarestar la magia de Ayato cuando regresara",
+      "historia_personal": "Despues de los acontecimientos de Astra sol, Manin se alejo de la ciudad para convertirse en una version de si misma y ser mas fuerte para enfrentar a Ayato",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "21",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
@@ -486,12 +486,12 @@
     {
       "id": "Manuel3",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Manuel3",
-      "titulo": "¿?",
+      "nombre": "Manuel(Yukino)",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/manuel3.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "A pesar de su aspecto de Yukino sigue siendo el mismo chico calculador, quien intenta anticiparse a cada movimiento de su enemigo",
+      "historia_personal": "Despues de los acontecimientos de Astra sol, Manuel decidio pasar desapercibido ya que habria otra amenaza por lo que tomo un perfil mas discreto conparado a quien era al inicio",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
@@ -504,17 +504,17 @@
     {
       "id": "Ranchi3",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Ranchi3",
-      "titulo": "¿?",
+      "nombre": "Ranchi(Denji)",
+      "titulo": "Lider de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/ranchi3.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Bromista y un poco mas simpatico despues de haber vivido su peor etapa de ramchi Batman",
+      "historia_personal": "A pesar de haber jurado venganza, algo dentro de el sabia que estaba mal por lo que conciente de ese camino decidio ser mejor lider y cambian su aspecto a algo mas actual a el, siendo lo mas cercano a Denji",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "23",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Ocupación": "Lider de los hijos de omnia"
       },
       "apariciones": [],
       "opiniones": []
@@ -522,17 +522,35 @@
     {
       "id": "Asuka3",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Asuka3",
-      "titulo": "¿?",
+      "nombre": "Asuka(Phos)",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/asuka3.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Se vuelve una persona mas seria y dejando de lado esa parte bondadoso de si mismo ya que ese caracter lo hizo vulnerable",
+      "historia_personal": "Despues de darse cuenta que se estaba dejando llevar por sus emociones, decidio no seguir el camino que Ramchi siguio en su momento por lo que esta vez volveria a pensar en sus acciones sim embargo su caracter amable lo abandono y volviendo en una un poco mas seria",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "20",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    }, 
+    {
+      "id": "Manin6",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manin(Meliodas)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manin5.webp",
+      "descripcion": "Con el aspecto de meliodas y dejar atras su fase de asta, utiliza contrataque para poder luchar contra Ayato.",
+      "historia_personal": "Cambia su aspecto para la batalla final contra Ayato para poder derrotarlo una vez por todas, despues de los sucesos contra Gilgamesh decide abandonar la ciudad definitivamente a pesar de que tuvo momentos inolvidables. Decide abandonar todo para obtener una vida de paz y dejar atras todo el combate, mas cuando Ikari tambien se fue de la ciudad",
+      "datos": {
+        "Edad": "20",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Cuarto Hijo de omnia"
       },
       "apariciones": [],
       "opiniones": []
@@ -540,14 +558,14 @@
     {
       "id": "Manuel4",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Manuel4",
-      "titulo": "¿?",
+      "nombre": "Manuel(Dark Iruma)",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/manuel4.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Sigue siendo el mismo chico de siempre pero cambiando su aspecto de Iruma para la pelea final contra Ayato",
+      "historia_personal": "Es el unico que queda de los hijos de omnia despues de los sucesos de Gilgamesh y peleando junto a Ramchi con Asuka para hacer prosperar la ciudad",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "21",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
@@ -559,11 +577,11 @@
       "id": "Franuel",
       "historia": "RanchiBizarreAventure",
       "nombre": "Franuel",
-      "titulo": "¿?",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/franuel.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es una fusión de Francis y Manuel, por lo que combina las capacidades de ambos. Se muestra seguro de sí mismo y muy poderoso, llegando a enfrentarse a Ayato con una enorme superioridad.",
+      "historia_personal": "Nace cuando Francis y Manuel utilizan los anillos que les había entregado Chocolat. La fusión es permanente y combina la inmortalidad heredada de Araragi con la magia que pertenecía a Iruma. Durante la batalla final, Franuel lucha junto a Akiko contra Ayato y consigue herirlo hasta el punto de superar su capacidad de regeneración. Despues aparecio para tratar de detener el arma que gilgamesh activo",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
@@ -580,8 +598,8 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/akiko.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es una fusión de Manin y Chocolat. Se caracteriza por su enorme poder y velocidad, y durante la batalla demuestra una actitud decidida, enfrentándose directamente a Ayato.",
+      "historia_personal": "Nace cuando Chocolat, después de morir, aparece como espíritu y decide fusionarse temporalmente con Manin para salvarle la vida. La fusión permite que ambos escapen de una situación en la que Manin estaba a punto de morir. Más adelante, Akiko vuelve a aparecer durante la batalla final contra Ayato y lucha junto a Franuel.",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
@@ -594,14 +612,14 @@
     {
       "id": "Ikari4",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Ikari4",
-      "titulo": "¿?",
+      "nombre": "Ikari(Hitori)",
+      "titulo": "Ex hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/ikari4.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es timido debido a la perdida de sus recuerdos, sim embargo nunca olvido el sentimiento de ayudar a sus amigos cuando estuvieron en problemas",
+      "historia_personal": "Vuelve con el aspecto de Hitori Gotou, sin memoria ni su nombre. Es impaciente pero protector con Ruben y Kailed. Despues de los sucesos contra Gilgamesh decide igual que Manin alejarse de todo por lo que le regrea al poder de ramchi y se va a vivir junto a Kailed",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "20",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
@@ -616,10 +634,10 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es una persona cercana a Ruben e Ikari y representa uno de los vínculos familiares más importantes dentro de su historia. A pesar de las situaciones que atraviesa, conserva una conexión muy fuerte con ambos.",
+      "historia_personal": "En el pasado vivía junto a Ruben y su amada. Los tres acogieron a Ikari después de encontrarlo gravemente herido y sin recuerdos, formando durante un tiempo una pequeña familia. Su vida cambia cuando Kakeru vuelve a aparecer y posteriormente ella es víctima de uno de los poderes que él puede reproducir.",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "20",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
@@ -630,12 +648,12 @@
     {
       "id": "Gilgamesh",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Gilgamesh (Alma Reencarnada)",
+      "nombre": "Gilgamesh (Kakeru)",
       "titulo": "¿?",
       "avatar": "",
       "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Kakeru se presenta como un personaje extremadamente peligroso, decidido y obsesionado con obtener aquello que considera necesario. No duda en utilizar poderes ajenos para alcanzar sus objetivos.",
+      "historia_personal": "Su conexión con Gilgamesh es fundamental para entender sus habilidades: gracias a ese poder puede recrear las capacidades de objetos que ha presenciado. Esto le permite utilizar una enorme variedad de armas y habilidades, convirtiéndolo en alguien capaz de enfrentarse al grupo utilizando poderes que originalmente no le pertenecían. Al igual que Astra sol, decide robar el poder de omnia y asi destruir el mundo que los tiene atado",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
@@ -648,12 +666,12 @@
     {
       "id": "Lobby3",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Lobby3",
+      "nombre": "Lobby(Gojo)",
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/lobby3.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Reaparece con aspecto de Gojo. Es calculador y recela de todos, pero ayuda contra Kakeru.",
+      "historia_personal": "Al saber la verdad sobre el mundo y sobre el poder de omnia, queda sin un rumbo que seguir sim embargo decide ayudar a los hijos de omnia porque el sentia que ellos podian cambiar el rumbo del mundo que habia seguido por siglos",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
@@ -670,8 +688,8 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/ruben.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Tiene el aspecto de Archer emiya, Es alguien protector, pero profundamente marcado por las pérdidas de su pasado. Durante mucho tiempo se convierte en una persona emocionalmente apagada, aunque debajo de esa apariencia mantiene un fuerte sentido de responsabilidad hacia Kailed e Ikari.",
+      "historia_personal": "es de los acontecimientos principales, Ruben vivía con su amada y Kailed. Cuando encontraron a Ikari sin recuerdos, decidieron acogerlo, pero Kakeru apareció buscando llevárselo; la amada de Ruben murió intentando protegerlo y le pidió que cuidara de Kailed e Ikari. Desde entonces, Ruben carga con esa promesa y con el deseo de protegerlos.",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
@@ -688,8 +706,8 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/dream.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "uno de los miembros de las cadenas de prometeo. Es alguien alegre pero a la vez lo suficiente serio, ademas paciente y marcado por una experiencia que abarca muchas vidas. Su forma de pensar está profundamente relacionada con su deseo de terminar con el sufrimiento del mundo.",
+      "historia_personal": "Dream conserva recuerdos de diferentes ciclos de existencia. En una vida anterior perteneció a los Hijos de Omnia junto a otros compañeros y, después de experimentar repetidamente las mismas tragedias, comenzó a buscar una manera de liberar definitivamente a las almas de ese ciclo. Su historia termina estando relacionada con una lucha mucho más grande que la de los personajes actuales: romper el sistema que mantiene a las almas atrapadas.",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
@@ -702,17 +720,17 @@
     {
       "id": "Asuka4",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Asuka4",
-      "titulo": "¿?",
+      "nombre": "Asuka Final",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/asuka4.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Uno de los tres líderes de la ciudad que quedan",
+      "historia_personal": "A pesar de haber visto a los hijos de omnia irse, el decidio quedarse para proteger la ciudad",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "23",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Ocupación": "Hijo de omnia"
       },
       "apariciones": [],
       "opiniones": []
@@ -720,12 +738,12 @@
     {
       "id": "Ranchi4",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Ranchi4",
-      "titulo": "¿?",
+      "nombre": "Ranchi Final",
+      "titulo": "Lider de los hijos de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/ranchi4.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Se ha convertido en una figura mucho más madura y experimentada. Sigue siendo uno de los principales responsables de Excalesol y continúa cargando con el peso de todo lo que ha ocurrido.",
+      "historia_personal": "Después de la caída de Kakeru, permanece en Excalesol junto a Manuel y Asuka. Durante estos dos años aprende a controlar cada vez mejor su poder de Omnia. Para la época de Dream, Ramchi es uno de los principales objetivos de quienes quieren apoderarse de ese poder.",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
@@ -738,17 +756,17 @@
     {
       "id": "Francis3",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Francis3",
-      "titulo": "¿?",
+      "nombre": "Francis Final",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/francis3.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Sigue siendo un combatiente muy resistente, con una gran capacidad de regeneración y muy ligado emocionalmente a sus antiguos compañeros.",
+      "historia_personal": "espués del time skip se había alejado de los Hijos de Omnia. Sin embargo, cuando comienza la crisis provocada por Dream vuelve a luchar junto a los demás.",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Ocupación": "Ex hijo de omnia"
       },
       "apariciones": [],
       "opiniones": []
@@ -756,12 +774,12 @@
     {
       "id": "Ikari5",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Ikari5",
-      "titulo": "¿?",
+      "nombre": "Ikari Final",
+      "titulo": "Ex hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/ikari5.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es más tranquilo y reservado, pero conserva un fuerte vínculo con sus compañeros.",
+      "historia_personal": "abía abandonado los Hijos de Omnia y elegido quedarse junto a Kailed para vivir tranquilamente. Sin embargo, durante la crisis de Dream regresa junto a Manin para ayudar a sus antiguos compañeros.",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
@@ -774,12 +792,12 @@
     {
       "id": "Manin5",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Manin5",
-      "titulo": "¿?",
+      "nombre": "Kioko",
+      "titulo": "Ex hijo de omnia",
       "avatar": "",
-      "arte": "imagenes/arte/RamchiPersonajes/manin5.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manin6.webp",
+      "descripcion": "Es alguien mucho más experimentado después de todo lo vivido. Mantiene una relación cercana con Ikari y conserva el vínculo con sus antiguos compañeros.",
+      "historia_personal": "Se había alejado de los Hijos de Omnia junto con Francis buscando una vida más tranquila. Durante la crisis de Dream regresa y vuelve a luchar junto al grupo. En la batalla protege a Ikari de un ataque, resultando gravemente herido. Al final decide descansar en paz después de haber vivido nuevamente junto a sus compañeros.",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
@@ -792,12 +810,12 @@
     {
       "id": "Manuel5",
       "historia": "RanchiBizarreAventure",
-      "nombre": "Manuel5",
-      "titulo": "¿?",
+      "nombre": "Manuel Final",
+      "titulo": "Hijo de omnia",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/manuel5.webp",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Se vuelva mas amable, es el más interesado en comprender el verdadero origen y funcionamiento del poder de Omnia. Es tranquilo, racional y actúa como alguien que intenta mantener unido al grupo.",
+      "historia_personal": "ras el retiro de varios Hijos de Omnia, Manuel permanece en Excalesol junto a Ramchi y Asuka. Dedica gran parte de los dos años a investigar por qué el poder de Omnia ha sido tan codiciado durante generaciones. Cuando conoce a Dream, decide entrenarlo personalmente y termina convirtiéndose en una figura muy importante para él y al final salvando al mundo despues de saber la verdad",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
