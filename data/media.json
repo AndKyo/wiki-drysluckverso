@@ -2,29 +2,281 @@
   "media": [
     {
       "tipo": "ending",
-      "titulo": "Ending de Ranchi Bizarre Aventure",
-      "descripcion": "Ending oficial de la historia.",
+      "titulo": "Ending proximo",
+      "descripcion": "Espera para el proximo ending",
       "historia": "RanchiBizarreAventure",
       "youtube_id": "",
       "url": "https://www.youtube.com/"
     },
     {
       "tipo": "cancion",
-      "titulo": "Canción del Personaje A",
-      "descripcion": "Tema original del personaje.",
+      "titulo": "Canción Proxima",
+      "descripcion": "Muy pronto",
       "historia": "RanchiBizarreAventure",
       "youtube_id": "",
       "url": "https://www.youtube.com/"
     },
     {
       "tipo": "video",
-      "titulo": "Tráiler de una de tus historias",
-      "descripcion": "Adelanto de la historia.",
+      "titulo": "Videos extras",
+      "descripcion": "Muy pronto",
       "historia": "",
       "youtube_id": "",
       "url": "https://www.youtube.com/"
     },
-        {
+    {
+      "tipo": "opening",
+      "titulo": "Uma musume - Camino a un sueño opening fanfic",
+      "descripcion": "Song: AIZO - Jujutsu Kaisen",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "YOXyYY_7psI",
+      "url": "https://www.youtube.com/watch?v=YOXyYY_7psI"
+    },
+     {
+      "tipo": "ending",
+      "titulo": "Umamusume - Buscando un proposito ending final fanfic",
+      "descripcion": "Song: Yuuzora No Kami Hikouki",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "0aG1eiP3sOo",
+      "url": "https://www.youtube.com/watch?v=0aG1eiP3sOo"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Umamusume - Buscando un proposito ending fanfic capitulo 30 Wattpad",
+      "descripcion": "Song: JANE DOE",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "-GT1ceQKQHI",
+      "url": "https://www.youtube.com/watch?v=-GT1ceQKQHI"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Uma Musume - Buscando un propósito temporada 3 opening Fanfic Wattpad",
+      "descripcion": "Anime: Uma musume. Song: New World ",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "AfSB0zLCN_k",
+      "url": "https://www.youtube.com/watch?v=AfSB0zLCN_k"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Umamusume - Buscando un proposito ending fanfic capitulo 25 Wattpad",
+      "descripcion": "Anime: Umamusume.  Song del anime: Hana ga saku Michi",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "E4LdVjoOE5I",
+      "url": "https://www.youtube.com/watch?v=E4LdVjoOE5I"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Anaxa, el Uma que se odia a si mismo - Umamusume Buscando un significado fanfic curiosidades.",
+      "descripcion": "Anime: Umamusume: Pretty Derby S1 y S2. ",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "XGCP3VEu6RQ",
+      "url": "https://www.youtube.com/watch?v=XGCP3VEu6RQ"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Umamusume-Buscando un propósito temporada 2 opening Fanfic Wattpad",
+      "descripcion": "Anime: Umamusume: Pretty Derby S1 y S2. Song del anime:Yume wo Kakeru",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "d-0Iq3lec14",
+      "url": "https://www.youtube.com/watch?v=d-0Iq3lec14"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Umamusume - Buscando un proposito Canción: Un hilo de esperanza.",
+      "descripcion": "Letra original de Drysluck09",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "Z6P3xb9U2uU",
+      "url": "https://www.youtube.com/watch?v=Z6P3xb9U2uU"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Umamusume - Buscando un proposito ending fanfic capitulo 13 Wattpad. A Little Prayer.",
+      "descripcion": "Anime Umamusume. Song: A little player",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "LGZNHOV5S1c",
+      "url": "https://www.youtube.com/watch?v=LGZNHOV5S1c"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Umamusume ( On The Way - Dandadan S2) - Buscando un propósito opening v2 Fanfic Wattpad",
+      "descripcion": "Anime: Umamusume: Pretty Derby S1 y S2. Song del anime: Dan dan dan.",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "GIF8afb4ltc",
+      "url": "https://www.youtube.com/watch?v=GIF8afb4ltc"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Umamusume Haru Urara canción: Nunca rendirse",
+      "descripcion": "Anime: Umamusume. Song del anime: Nunca rendirse",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "HBt8BDxoBHs",
+      "url": "https://www.youtube.com/watch?v=HBt8BDxoBHs"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Umamusume ( On The Way - Dandadan S2) - Buscando un propósito opening Fanfic Wattpad",
+      "descripcion": "Anime: Umamusume: Pretty Derby S1 y S2. Song del anime: Dan dan dan.",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "MSGvPOfVuDM",
+      "url": "https://www.youtube.com/watch?v=MSGvPOfVuDM"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Un egoísta en Roshidere - Alya-San ( Chaos ga Kiwamaru - Blue Lock ) opening fanfic",
+      "descripcion": "Después de dos años de los acontecimientos de  Roshidere - Mensaje de arrepentimiento el protagonista demostrara que puede ser el mejor delantero sim embargo  hay jugador@s que poseen su propio egoísmo.",
+      "historia": "egoista-roshidere",
+      "youtube_id": "Fhzdz_-c2uo",
+      "url": "https://www.youtube.com/watch?v=Fhzdz_-c2uo"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "La saga de la reencarnación : Ecos de una vida pasa Remake song",
+      "descripcion": "Cancion para el fanfic la saga de la reencarnacion",
+      "historia": "saga-reencarnacion",
+      "youtube_id": "0cdV_mUvARg",
+      "url": "https://www.youtube.com/watch?v=0cdV_mUvARg"
+    },
+     {
+      "tipo": "cancion",
+      "titulo": "Roshidere- Mensaje de arrepentimiento. Song: Renacer en tu Perdón Capitulo 18 Fanfic wattpad",
+      "descripcion": "Cancion para el fanfic Roshidere Mensaje de Arrepentimiento capitulo 18",
+      "historia": "mensaje-arrepentimiento",
+      "youtube_id": "dXs8L6J_Pn0",
+      "url": "https://www.youtube.com/watch?v=dXs8L6J_Pn0"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Roshidere- Mensaje de arrepentimiento. Song: Una amistad única. Capitulo 11 Fanfic wattpad",
+      "descripcion": "Cancion para el fanfic Roshidere Mensaje de Arrepentimiento capitulo 11",
+      "historia": "mensaje-arrepentimiento",
+      "youtube_id": "71ZmwwnDm-k",
+      "url": "https://www.youtube.com/watch?v=71ZmwwnDm-k"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Roshidere - Mensaje de arrepentimiento. Song: Regret Message x Ecos de una vida pasada.  Fanfic.",
+      "descripcion": "Cancion para el fanfic Roshidere Mensaje de Arrepentimiento para el capitulo 6 o 7",
+      "historia": "mensaje-arrepentimiento",
+      "youtube_id": "8Z5aIKblJjQ",
+      "url": "https://www.youtube.com/watch?v=8Z5aIKblJjQ"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Fanfic - One shot / Detrás de esa frialdad.",
+      "descripcion": "Un one shot para la introduccion a Roshidere Mensaje de Arrepentimiento",
+      "historia": "detras-frialdad",
+      "youtube_id": "xSoXLGAxZdM",
+      "url": "https://www.youtube.com/watch?v=xSoXLGAxZdM"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "No voy a soltarte - Canción IA. Bocchi the rock-La razón para proteger sus sonrisas capitulo 33 ost.",
+      "descripcion": "Anime: Bocchi the rock. Song: Detrás de esa frialdad. Autor de la letra: Drysluck09.",
+      "historia": "razon-proteger-sonrisas",
+      "youtube_id": "n4u-4UopJGo",
+      "url": "https://www.youtube.com/watch?v=n4u-4UopJGo"
+    },
+     {
+      "tipo": "cancion",
+      "titulo": "Bocchi the rock - La razón para proteger sus sonrisas. Song: Detras de esa Frialdad. Capitulo 32 Fanfic.",
+      "descripcion": "Anime: Bocchi the rock. Song: Detrás de esa frialdad. Autor de la letra: Drysluck09.",
+      "historia": "razon-proteger-sonrisas",
+      "youtube_id": "eeMoQv2kF8Q",
+      "url": "https://www.youtube.com/watch?v=eeMoQv2kF8Q"
+    },
+     {
+      "tipo": "cancion",
+      "titulo": "Bocchi the rock - La razón para proteger sus sonrisas. Song: Ecos del silencio capitulo 27 Fanfic.",
+      "descripcion": "Abrumada por el gran esfuerzo de sus compañeras tras el Unidifiet Riot, Ryo cae en una profunda inseguridad: teme no componer una canción perfecta y provocar la separación de la banda.",
+      "historia": "razon-proteger-sonrisas",
+      "youtube_id": "9Pn7NHb4AF8",
+      "url": "https://www.youtube.com/watch?v=9Pn7NHb4AF8"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Bocchi the rock - La razón para proteger sus sonrisas. Song: Más que un nombre capitulo 23 Fanfic.",
+      "descripcion": "Anime: Bocchi the rock . Song: Mas que un nombre. Autor de la letra: Drysluck09.",
+      "historia": "razon-proteger-sonrisas",
+      "youtube_id": "7WJLKt_hRLY",
+      "url": "https://www.youtube.com/watch?v=7WJLKt_hRLY"
+    },
+     {
+      "tipo": "video",
+      "titulo": "Bocchi the rock - Luz de esperanza capitulo 01:La reencarnación fanfic.",
+      "descripcion": "Narracion del capitulo uno Bocchi the rock luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "rnR_zwoirMU",
+      "url": "https://www.youtube.com/watch?v=rnR_zwoirMU"
+    },
+      {
+      "tipo": "ending",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida Ending Final ",
+      "descripcion": "Anime: Mahou shoujo ni akogarete. Anime song: Boku no hero Canción: Kitakaze",
+      "historia": "significado-vida",
+      "youtube_id": "TmPa1Sa3R_o",
+      "url": "https://www.youtube.com/watch?v=TmPa1Sa3R_o"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida OST capitulo 37 ",
+      "descripcion": "Anime: Mahou shoujo ni akogarete. Ost: Might+U",
+      "historia": "significado-vida",
+      "youtube_id": "4rWhTxHiOKM",
+      "url": "https://www.youtube.com/watch?v=4rWhTxHiOKM"
+    },
+     {
+      "tipo": "video",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida OST Shiroko vs Miyuki ",
+      "descripcion": "Hem....solo es un edit de las historias que escribo y dejo volar mi imaginacion....xd.",
+      "historia": "significado-vida",
+      "youtube_id": "mNSFXcLTW6E",
+      "url": "https://www.youtube.com/watch?v=mNSFXcLTW6E"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida OST ",
+      "descripcion": "Anime: Mahou shoujo ni akogarete. Ost: KOF all start orochi team.",
+      "historia": "significado-vida",
+      "youtube_id": "0EWnWaw37GI",
+      "url": "https://www.youtube.com/watch?v=0EWnWaw37GI"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida (Curtain Call-Boku no hero) Final chapters 25-36",
+      "descripcion": "Opening cuatro de El significado de mi vida",
+      "historia": "significado-vida",
+      "youtube_id": "qX3E6fBzylQ",
+      "url": "https://www.youtube.com/watch?v=qX3E6fBzylQ",
+      "miniatura": ""
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida (grayscale dominator) capitulos 20-24 y epilogo.",
+      "descripcion": "Opening tres de El significado de mi vida",
+      "historia": "significado-vida",
+      "youtube_id": "jqbhSUoqmQc",
+      "url": "https://www.youtube.com/watch?v=jqbhSUoqmQc",
+      "miniatura": ""
+    },
+     {
+      "tipo": "opening",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida ( Unchained World - GENERATIONS ) cap 14-19 Fanfic",
+      "descripcion": "Opening dos de El significado de mi vida",
+      "historia": "significado-vida",
+      "youtube_id": "quc1cmLZwu0",
+      "url": "https://www.youtube.com/watch?v=quc1cmLZwu0",
+      "miniatura": ""
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida (Tsuki ga Michibiku - Reversal)Fanfic cap 1-13",
+      "descripcion": "Opening uno de el significado de mi vida",
+      "historia": "significado-vida",
+      "youtube_id": "dI823fCvyYs",
+      "url": "https://www.youtube.com/watch?v=dI823fCvyYs",
+      "miniatura": ""
+    },
+      {
       "tipo": "ending",
       "titulo": "Bocchi the rock - Luz de esperanza Ending final del fanfic (SKETCH - Boku no hero ).",
       "descripcion": "Ending final de Luz de esperanza",
@@ -139,6 +391,14 @@
       "historia": "luz-esperanza",
       "youtube_id": "g3bYAMj2r-4",
       "url": "https://www.youtube.com/watch?v=g3bYAMj2r-4"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Bocchi the rock - Luz de esperanza, song : mi hermana, mi luz en la oscuridad Capitulo 18 fanfic.",
+      "descripcion": "Anime: Bocchi the rock \n fanfic: Bocchi the Rock!-Luz de esperanza. \n Canción: Mi hermana, mi luz  \n Edicion: Drysluck09. \n Letra: Drysluck09.",
+      "historia": "luz-esperanza",
+      "youtube_id": "jzuUyzNADOs",
+      "url": "https://www.youtube.com/watch?v=jzuUyzNADOs"
     },
     {
       "tipo": "ending",
