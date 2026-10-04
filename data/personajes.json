@@ -1168,603 +1168,541 @@
       "id": "busc-haru-urara",
       "historia": "buscando-un-proposito",
       "nombre": "Haru Urara",
-      "titulo": "¿?",
+      "titulo": "La esperanza de japon",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PropositoPersonajes/Urara.png",
+      "descripcion": "Tiene cabello rosa y rosado atado hacia atrás en una cola de caballo con un flequillo corto. Sus orejas están cubiertas por tela de color rosado y tiene un lazo blanco en la oreja izquierda. Sus ojos grandes y redondos de color rosado con patrones de pétalos de flores de cerezo en sus iris.",
+      "historia_personal": "A pesar de tener una racha de carreras perdidas ¡Pero ella nunca se rinde! Si bien puede que no sea la más hábil su determinación es inspiradora además de ser una estudiante alegre, extremadamente optimista, amable y muy sociable.",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "140",
+        "Cumpleaños": "27 de febrero",
+        "Ocupación": "Estudiante y corredora"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "busc-rice-shower",
       "historia": "buscando-un-proposito",
       "nombre": "Rice Shower",
-      "titulo": "¿?",
+      "titulo": "La asesina de sueños",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PropositoPersonajes/rice.jpg",
+      "descripcion": "Tiene el cabello largo y ondulado de color marrón oscuro castaño con un flequillo largo que le cubre casi por completo el ojo derecho. Sus ojos son de color púrpura violeta, orejas largas y su cola son de color castaño oscuro mientras que en su oreja derecha lleva un adorno con un sombrero pequeño de color azul oscuro decorado con una rosa azul.",
+      "historia_personal": "Rice Shower entra a Tracen buscando aprobación, pero al ganar carreras importantes que el público no quería que gane provoco que la rechazaran y fuera apoda como la <<Asesina de Leyendas>>. Deprimida por el rechazo intenta retirarse, pero con ayuda de su entrenador y sus rivales vuelve a competir, demostrando su esfuerzo hasta ganarse el respeto del público y cambiar su imagen a la de una heroína.",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "145",
+        "Cumpleaños": "5 marzo",
+        "Ocupación": "Estudiante y corredora"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
       "opiniones": []
     },
-    {
-      "id": "busc-still-in-love",
-      "historia": "buscando-un-proposito",
-      "nombre": "Still In Love",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
+  
     {
       "id": "busc-miyabi-oshizora",
       "historia": "buscando-un-proposito",
       "nombre": "Miyabi Oshizora",
-      "titulo": "¿?",
+      "titulo": "La uma egoista",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PropositoPersonajes/miyabi.png",
+      "descripcion": "Uma joven, de cuerpo frágil, siempre última en sus carreras. Es ingenua, tenaz y capaz de enormes sacrificios. Cuando despierta su <<zona>> libera un aura verde que luego pasa a rosa y blanca.",
+      "historia_personal": "Su madre fue una corredora que murió de una enfermedad degenerativa, y su padre que era médico perdió la alegría desde entonces. Entró a Tracen para devolverle la sonrisa a su padre y al convivir con su Entrenadora decide tambien devolversela, convencida de que el dolor es el precio de la victoria y no le importa soporta el entrenamiento por más duro que sea.",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "1,40",
+        "Cumpleaños": "12 de febrero",
+        "Ocupación": "Estudiante y corredora"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "busc-gentildonna",
       "historia": "buscando-un-proposito",
       "nombre": "Gentildonna",
-      "titulo": "¿?",
+      "titulo": "La reina eterna - Dama de hierro",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PropositoPersonajes/gentil.jpg",
+      "descripcion": "Tiene el cabello castaño oscuro muy largo y liso, dividido en dos coletas bajas con un flequillo recto en la frente y dos mechones largos a los lados. Sus ojos son grandes de color rojo, orejas largas y cola de caballo de color castaño oscuro mientras que en su oreja derecha lleva un adorno redondo de color rojo con bordes dorados. Gentildonna es una de las umas mas fuertes que hay debido a que puede aplastar bolas de hierro hasta que tengan un tamaño de pelota de tennis",
+      "historia_personal": "Posee una fuerza física enorme que a menudo oculta tras una fachada de elegancia y buenos modales. Es una de las ganadoras de la triple ademas de tener su rivalidad contra Orfevre y Gold Ship.",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "167 cm",
+        "Cumpleaños": "20 de febrero",
+        "Ocupación": "Estudiante y corredora"
       },
-      "apariciones": [],
+      "apariciones": [
+         {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "busc-agnes-digital",
       "historia": "buscando-un-proposito",
       "nombre": "Agnes Digital",
-      "titulo": "¿?",
+      "titulo": "Otaku todoterreno",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PropositoPersonajes/digital.webp",
+      "descripcion": "Tiene el cabello largo de color rosa con un peinado en dos coletas altas a los lados con puntas curvadas hacia arriba y un flequillo sobre la frente, sus ojos son de color azul claro violeta, sus orejas y cola son del mismo color rosa que su cabello mientras en la parte superior de la cabeza lleva un moño gigante amarillo con una gema roja en el centro. ",
+      "historia_personal": "Entra a Tracen por su obsesión extrema hacia las Umamusume, compitiendo en las pistas para ver a sus ídolos desde el mejor lugar posible. Posee un talento increíble que le permite adaptarse a cualquier superficie en las pistas, tanto en césped como en tierra. ",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
+        "Altura": "143 cm",
+        "Cumpleaños": "15 de mayo",
         "Ocupación": "¿?"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "busc-agnes-taychon",
       "historia": "buscando-un-proposito",
       "nombre": "Agnes Taychon",
-      "titulo": "¿?",
+      "titulo": "El Fantasma de la Triple Corona",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PropositoPersonajes/taychon.jpg",
+      "descripcion": "Tiene el cabello corto de color castaño claro desordenado con un mechón largo cayendo entre los ojos, ojos de color rojo intenso con pupilas rasgadas y ojeras marcadas. Lleva una bata blanca de laboratorio sobre su uniforme y un pendiente en la oreja izquierda con un carácter excéntrica y obsesivo hacia la ciencia. ",
+      "historia_personal": "Entra a Tracen no por los trofeos, sino para usar las carreras como un laboratorio de pruebas. Es una científica obsesionada con llevar el potencial físico de las chicas caballo al límite absoluto a través de experimentos, fórmulas y pociones cuestionables que ella misma elabora y prueba en sí misma o en sus compañeros. Experimentos que casi siempre provocan unas pequeñas explosiones",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "159 cm",
+        "Cumpleaños": "13 de abril",
+        "Ocupación": "Estudiante cientifica y corredora"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "busc-esmerald",
       "historia": "buscando-un-proposito",
       "nombre": "Esmerald",
-      "titulo": "¿?",
+      "titulo": "Entrenadora de la familia Satono",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
+      "arte": "imagenes/arte/PropositoPersonajes/satono.png",
+      "descripcion": "Chica de cabello y ojos verdes que trabaja como maid y asistente de la familia Satono. Es amable, trabajadora y muy buena cocinera, aunque suele ser algo despistada y un poco impulsiva, sobre todo con su rival Sao, pero se esfuerza y no se rinde.",
       "historia_personal": "",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
+        "Altura": "1,65",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
       "opiniones": []
     },
-    {
-      "id": "busc-reina-kanzaki3",
-      "historia": "buscando-un-proposito",
-      "nombre": "Reina Kanzaki3",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
+    
     {
       "id": "busc-feinberg-agnes",
       "historia": "buscando-un-proposito",
       "nombre": "Feinberg Agnes",
-      "titulo": "¿?",
+      "titulo": "La Uma entrenadora cientifica",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PropositoPersonajes/Feinberg.png",
+      "descripcion": "Chica de pelo castaño y largo con una personalidad amable, curiosa y algo ingenua, conservando sus conocimientos de ciencia y medicina.Lleva saco gris oscuro, camisa verde oscuro con botones y una cadena plateada con una piedra verde incrustada..    ",
+      "historia_personal": "Umamusume que se hace entrenadora porque le alegra ver cómo las Umamusume cumplen sus sueños, y quiere ayudarlas a cumplirlos. Es muy estudiosa y se compromete con las investigaciones y las unas a su cargo, pero carga con un dolor y guarda recuerdos que no son del todo suyos. ",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "21",
+        "Altura": "1,70",
+        "Cumpleaños": "23 de septiembre",
+        "Ocupación": "Entrenador y medico"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "tsub-tsubasa-ozora",
       "historia": "capitan-tsubasa",
       "nombre": "Tsubasa Ozora",
-      "titulo": "¿?",
+      "titulo": "Genio del fútbol",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/tsubasa.jpg",
+      "descripcion": "Niño alegre, entusiasta, nunca se separa de su balón y lo considera su mejor amigo. Entrena sin cansarse, es de buen corazón y tiene un tiro muy potente.",
+      "historia_personal": "Vive con su madre, Natsuko, y de pequeño un balón lo salvó de ser atropellado. Se muda a la prefectura de Shizuoka, donde Ishisaki es su primer amigo y en el futuro conoce a Roberto quien lo entrena. Reta a Genzo Wakabayashi y con el pasar del tiempo se hace el capitán del Nakatsu.  ",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "12 años",
+        "Altura": "145 cm",
+        "Cumpleaños": "28 de julio",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "tsub-tsukushi",
       "historia": "capitan-tsubasa",
-      "nombre": "Tsukushi",
-      "titulo": "¿?",
+      "nombre": "Tsukush Takahashi",
+      "titulo": "El jugador limitado",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/takahashi.png",
+      "descripcion": "Compañero de Ishisaki y Tsubasa. Es tranquilo, serio y algo melancólico pero amable y muy humilde además de que siempre resta mérito a lo que hace. Tiene un tiro de trayectoria curva muy difícil de detener y juega como arquero y por su limitada condición de delantero por unos minutos.",
+      "historia_personal": "Al llegar a la primaria se hizo amigo de Ishisaki, era muy bueno en el fútbol, pero un problema de corazón le impide jugar más de diez o quince minutos. Una mala experiencia en una final lo hizo querer dejar el fútbol que desde entonces carga con la culpa. Se intento alejar del equipo, pero gracias a Ishisaki, mas con el ánimo de Nana y la llegada de Tsubasa, empieza a creer de nuevo y decide darlo todo mientras pueda.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "12 años",
+        "Altura": "145 cm",
+        "Cumpleaños": "4 de abril",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+         {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "tsub-ryo-ishisaki",
       "historia": "capitan-tsubasa",
       "nombre": "Ryo Ishisaki",
-      "titulo": "¿?",
+      "titulo": "Bloqueo Facial",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/ishisaki.jpg",
+      "descripcion": "Compañero de clase y mejor amigo de Tsubasa. Es amable, bromista y algo flojo, organiza al grupo y se acuerda de los detalles que los demás olvidan.",
+      "historia_personal": "Es el primero en hacerse amigo de Tsubasa y quiere derrotar al Shutetsu ya que fueron derrotados por tres años seguidos. Es muy cercano a Tsukushi además de ser quien lo animó a no dejar el fútbol, proteger a los suyos y se esfuerza más de lo que aparenta.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "12 años",
+        "Altura": "149 cm",
+        "Cumpleaños": "1 de abril",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "tsub-nana-shimura",
       "historia": "capitan-tsubasa",
-      "nombre": "Nana Shimura",
-      "titulo": "¿?",
+      "nombre": "Nana Shimura (beta version)",
+      "titulo": "La genia prodigia",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/nana.png",
+      "descripcion": "Amiga de Tsukushi, compañera de curso, jugadora del equipo femenino del Nakatsu con carácter alegre, enérgica, muy competitiva y algo torpe.",
+      "historia_personal": "Hace dos años fue una de las mejores jugadoras de su escuela y llevó a su equipo a la final, pero un error suyo les costó el partido y su rival Hiromi se burló de ella, pero Tsukushi la animo siendo la razón del porque casi siempre están juntos. ",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "12 años",
+        "Altura": "1,36 cm",
+        "Cumpleaños": "5 de octubre",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "tsub-taro-misaki",
       "historia": "capitan-tsubasa",
       "nombre": "Taro Misaki",
-      "titulo": "¿?",
+      "titulo": "Artista del campo",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/misaki.jpg",
+      "descripcion": "Compañero y jugador del Nankatsu, mediocampista ofensivo muy talentoso con un carácter alegre, humilde, sumamente habilidoso con el balón y poseedor de una gran visión de juego.",
+      "historia_personal": " Llegó al Nankatsu debido a los constantes viajes de su padre pintor. Se unió al equipo justo a tiempo para el torneo nacional de primaria, donde formó la legendaria <<Dueto Dorado>> ",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "12 años",
+        "Altura": "1,46 cm",
+        "Cumpleaños": "5 de mayo",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "tsub-kojiro-hyuga",
-      "historia": "capitan-tsubasa",
-      "nombre": "Kojiro Hyuga",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
+      "apariciones": [
+         {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "tsub-genzo-wakabayashi",
       "historia": "capitan-tsubasa",
       "nombre": "Genzo Wakabayashi",
-      "titulo": "¿?",
+      "titulo": "Portero Prodigioso",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/genzo.jpg",
+      "descripcion": "Portero del Shutetsu. Es muy arrogante, seguro de sí mismo y de carácter fuerte, con una confianza que a veces lo hace descuidarse. Es un portero excepcional y casi nadie le había anotado.",
+      "historia_personal": "Vive en una mansión y entrena en el parque con su equipo, al que ayuda a conseguir la cancha tras humillar a los adultos que se la disputaban. Se encuentra con Tsubasa gracias a un balón con un mensaje y acepta un reto con él.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
+        "Edad": "12 años",
+        "Altura": "161 cm",
+        "Cumpleaños": "7 de diciembre",
         "Ocupación": "¿?"
       },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "tsub-roberto-hongo",
-      "historia": "capitan-tsubasa",
-      "nombre": "Roberto Hongo",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "tsub-shingo-takasugi",
       "historia": "capitan-tsubasa",
       "nombre": "Shingo Takasugi",
-      "titulo": "¿?",
+      "titulo": "La defensa del shutetsu",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/shingo.jpg",
+      "descripcion": "Defensa del Shutetsu, es alto, corpulento y muy fuerte, apodado el <<gigante>>.",
+      "historia_personal": "Fue el líbero del Shutetsu y sigue a Wakabayashi por su confianza en él. Se pone delante de rivales como Tsubasa y Hyuga para frenarlos y no se rinde fácil que con el tiempo se convierte en la defensa del Nakatsu.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "12 años",
+        "Altura": "1,68 cm",
+        "Cumpleaños": "10 de octubre",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "tsub-ken-wakashimazu",
-      "historia": "capitan-tsubasa",
-      "nombre": "Ken Wakashimazu",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "tsub-mamoru-aizawa",
       "historia": "capitan-tsubasa",
       "nombre": "Mamoru Aizawa",
-      "titulo": "¿?",
+      "titulo": "El mediocampista del shutetsu",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
+      "arte": "imagenes/arte/TsubasaPersonajes/aizawa.jpg",
+      "descripcion": "Elegante mediocampista ofensivo y creador de juego del Shutetsu y del Nankatsu, de cabello largo, famoso por su excelente técnica, control del balón y su espectacular capacidad para saltar y rematar de cabeza",
       "historia_personal": "",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "12 años",
+        "Altura": "155 cm",
+        "Cumpleaños": "20 de diciembre",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "tsub-teppei-kisugi",
       "historia": "capitan-tsubasa",
       "nombre": "Teppei Kisugi",
-      "titulo": "¿?",
+      "titulo": "Delantero del Shutetsu",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/kisugi.jpg",
+      "descripcion": "Delantero y goleador del Shutetsu, parte del cuarteto con Takasugi, Aizawa y Taki. Es disciplinado, reservado y muy leal a su capitán ademas de que siempre encuentra la forma de llegar al arco.",
+      "historia_personal": ": Confía ciegamente en Wakabayashi y se disculpa cuando el equipo falla. No entiende por qué su capitán casi no habla con nadie, pero se esfuerza en apoyarlo. Combina con Taki y Aizawa para romper defensas y aprovechar el espacio libre.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "12 años",
+        "Altura": "145 cm",
+        "Cumpleaños": "15 de mayo",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+            {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "tsub-hajime-taki",
       "historia": "capitan-tsubasa",
       "nombre": "Hajime Taki",
-      "titulo": "¿?",
+      "titulo": "El mediocampista del shutetsu y Rey de las asistencias",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
+      "arte": "imagenes/arte/TsubasaPersonajes/taki.jpg",
+      "descripcion": "Mediocampista del Shutetsu, conocido como el <<rey de las asistencias>> Es rápido, ágil de pies, competitivo y a veces demasiado confiado.",
       "historia_personal": "",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "12 años",
+        "Altura": "1,43 cm",
+        "Cumpleaños": "8 de agosto",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
-    {
-      "id": "tsub-kotetsu",
+     {
+      "id": "tsub-kojiro-hyuga",
       "historia": "capitan-tsubasa",
-      "nombre": "Kotetsu",
-      "titulo": "¿?",
+      "nombre": "Kojiro Hyuga",
+      "titulo": "El tigre de japon",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/hyuga.png",
+      "descripcion": "Capitán y delantero del Meiwa. Es arrogante, brusco y muy competitivo: juega con fuerza y no le importa empujar o dar un codazo para ganar. Se cree el mejor jugador y detesta perder, sobre todo contra Tsubasa.",
+      "historia_personal": "Se esfuerza por salir de una situación familiar difícil, y los cazatalentos del colegio Toho lo reclutan con la promesa de ayudar a su familia si gana el campeonato. Entrena un año entero para derrotar a Tsubasa y demostrarle <<el verdadero espíritu deportivo>> y esa meta lo empuja a no rendirse sim embargo detrás de su dureza hay una enorme necesidad de ganar para salvar a los suyos.",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "158 cm",
+        "Cumpleaños": "17 de agosto",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "tsub-sakurabi",
-      "historia": "capitan-tsubasa",
-      "nombre": "Sakurabi",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "tsub-thoma",
-      "historia": "capitan-tsubasa",
-      "nombre": "Thoma",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "tsub-manabu",
-      "historia": "capitan-tsubasa",
-      "nombre": "Manabu",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "tsub-sanae-nakazawa",
-      "historia": "capitan-tsubasa",
-      "nombre": "Sanae Nakazawa",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "tsub-axel-blaze",
-      "historia": "capitan-tsubasa",
-      "nombre": "Axel Blaze (Goenji)",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
+      "apariciones": [
+          {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "tsub-takeshi-sawada",
       "historia": "capitan-tsubasa",
       "nombre": "Takeshi Sawada",
-      "titulo": "¿?",
+      "titulo": "Técnico Diminuto",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/takeshi.jpg",
+      "descripcion": "Mediocampista del Meiwa y compañero de Hyuga. Es pequeño, técnico y brillante en las asistencias. Respeta mucho a su capitán, pero no duda en decirle sus errores.",
+      "historia_personal": "Entró al Meiwa después de que Hyuga le diera una oportunidad cuando no lo aceptaban en las pruebas. El entrenador Kira lo formó desde entonces y se enteró de la situación familiar de Hyuga, así que se prometió ganar por él.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "10 años",
+        "Altura": "1,36 cm",
+        "Cumpleaños": "2 de enero",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
-      "id": "tsub-kyo",
+      "id": "tsub-ken-wakashimazu",
       "historia": "capitan-tsubasa",
-      "nombre": "Kyo",
-      "titulo": "¿?",
+      "nombre": "Ken Wakashimazu",
+      "titulo": "El portero karateca",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/ken.jpg",
+      "descripcion": "Espectacular portero estrella del Meiwa FC y caracterizado por su agilidad, reflejos extraordinarios y un fuerte sentido de la lealtad hacia Hyuga",
+      "historia_personal": "Inicialmente iba a ser delantero, pero decidió convertirse en guardameta para ayudar a su equipo. Tras recuperarse de un accidente de tráfico, debutó de forma increíble en las semifinales del torneo de primaria. En la gran final contra el Nankatsu, defendió la portería usando técnicas de karate heredadas de su familia como impulsarse en los postes. ",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "159 cm",
+        "Cumpleaños": "29 de diciembre",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+          {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-kawata",
+      "historia": "capitan-tsubasa",
+      "nombre": "Kawata Hiromi",
+      "titulo": "La doncella de cañon",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/kawata.png",
+      "descripcion": "Delantera de un equipo rival, arrogante, burlona y muy segura de sí misma. Va siempre con su amiga Tami.",
+      "historia_personal": "Humilló a Nana hace dos años en una final y desde entonces se burla de que <<nunca la vencerá>>. Para ella perder no es una opción, y no soporta que Nana mejore.",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "1,40 cm",
+        "Cumpleaños": "4 de septiembre",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    
+    {
+      "id": "tsub-tami",
+      "historia": "capitan-tsubasa",
+      "nombre": "Tami Manako",
+      "titulo": "Mediocampista inesperada",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/tami.png",
+      "descripcion": "Amiga y compañera de Hiromi. Es un poco mas tranquila y más sensata que su amiga kawata.",
+      "historia_personal": "Acompaña a Hiromi en sus visitas a los partidos y le recuerda las obligaciones, como volver al tren o reunirse con el equipo.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,46 cm",
+        "Cumpleaños": "7 de agosto",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+         {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "tsub-rin",
       "historia": "capitan-tsubasa",
-      "nombre": "Rin",
-      "titulo": "¿?",
+      "nombre": "Rin Nakano",
+      "titulo": "Entrenadora de futbol",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "tsub-oota",
-      "historia": "capitan-tsubasa",
-      "nombre": "Oota",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "tsub-suguru-aizawa",
-      "historia": "capitan-tsubasa",
-      "nombre": "Suguru Aizawa",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/rin.jpg",
       "descripcion": "¿?",
       "historia_personal": "",
       "datos": {
