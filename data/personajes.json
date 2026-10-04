@@ -381,7 +381,7 @@
       "nombre": "Astra Sol",
       "titulo": "Reencarnada",
       "avatar": "",
-      "arte": "imagenes/arte/RamchiPersonajes/Manin3.webp",
+      "arte": "imagenes/arte/RamchiPersonajes/manin3.webp",
       "descripcion": "Su personalidad se caracteriza por una fuerte resistencia a permanecer sometida y por luchar constantemente contra quienes intentan detenerla.",
       "historia_personal": "Astra permaneció encerrada durante siglos dentro de un objeto original. Hace un pacto con Manin para ocupar su cuerpo y ayudar a sus amigos pero detras de este trato, ella quiere terminar con el mundo al saber la verdad del mundo.",
       "datos": {
@@ -848,7 +848,7 @@
       "nombre": "Tn Kawaragi",
       "titulo": "El sin proposito",
       "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/Kawaragi1.jpg",
+      "arte": "imagenes/arte/PropositoPersonajes/kawaragi1.jpg",
       "descripcion": "Chico de 15 años, siempre esta con el celular o los audífonos. Es flojo, sarcástico y vive de juegos gacha pero detrás de las bromas es noble y se preocupa por los de su alrededor, aunque lo disimule.",
       "historia_personal": "Es uno de los 3 aspirantes a ser entrenador junto a Reina y anaxa. Hijo de un famoso reportero de carreras, creció en primera fila sin entender por qué la gente se emocionaba tanto por ver correr a las Umamusume.  Casi siempre se toma todo como burla y sin vocación, hasta que empieza a ver las carreras de otra manera al convivir en la Academia Tracen.",
       "datos": {
@@ -871,7 +871,7 @@
       "nombre": "Reina Kanzaki",
       "titulo": "La fantasma egoista",
       "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/Reina1.png",
+      "arte": "imagenes/arte/PropositoPersonajes/reina1.png",
       "descripcion": "Chica de cabello azulado y exfutbolista. Tiene un caracter frio, orgullosa y suele liberar una presencia intimidante.",
       "historia_personal": "Es una de los 3 aspirante a entrenadores. Su padre fue un entrenador bondadoso cuyo nombre terminó manchado, y su madre se fue. Creció con burlas y una traición de su única amiga, y aprendió que confiar es ser vulnerable. Entrena umas <<egoistas>>, convencida de que el mundo no premia la bondad. ",
       "datos": {
@@ -894,7 +894,7 @@
       "nombre": "Anaxa",
       "titulo": "El cientifico loco",
       "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/Anaxa1.png",
+      "arte": "imagenes/arte/PropositoPersonajes/anaxa1.png",
       "descripcion": "Tiene un gorro café, pelo castaño, bata blanca, ojos rojizos y familia de los Agnes. Es un científico excéntrico y sarcástico, suele usar a las Umamusume como sujetos de prueba, pero a diferencia de su hermana Agnes Taychon, el primero verifica que no corran peligro e incluso probándolas en el mismo si es necesario. ",
       "historia_personal": "Es un pasante en Rigil que estudia medicina y predice resultados con una precisión que asusta. Casi siempre evita los hipódromos y su pasado es un misterio.",
       "datos": {
@@ -963,7 +963,7 @@
       "nombre": "Entrenador (Torena)",
       "titulo": "Entrenador",
       "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/Ryo.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/ryo.webp",
       "descripcion": "Siempre lleva una paleta en la boca, tiene la piel bronceada, ojos de color ámbar con cabello castaño y un corte rapado en el lado izquierdo de la cabeza. Viste un chaleco negro sobre una camisa amarilla abotonada y pantalones negros. ",
       "historia_personal": "Es el entrenador de Spica. En lugar de instruir adecuadamente a sus alumnas con estrategias de carreras, confía en ellos y les permite correr según sus propios deseos.  A pesar de su forma “única” e impulsiva de gestionar su equipo, las cosas van bien…casi siempre. ",
       "datos": {
@@ -1124,7 +1124,7 @@
       "nombre": "Reina Kanzaki adulta",
       "titulo": "La entrenadora egoista",
       "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/Reina2.png",
+      "arte": "imagenes/arte/PropositoPersonajes/reina2.png",
       "descripcion": "Lleva una chaqueta azul sobre un vestido negro con encaje, un lazo en el pecho, un cinturón negro y un collar de gargantilla negro. Sigue siendo directa y fuerte pero su mirada ya no es fría con sus ojos recuperado su brillo, siendo más abierta y humana.",
       "historia_personal": "Después de ver la realidad y consecuencias de sus acciones, ya no busca pisotear a los demás sino enseñar a amarse lo suficiente para no destruirse. Ahora cuida a sus unas y con el temor de volver a quedarse sola. ",
       "datos": {
@@ -1147,7 +1147,7 @@
       "nombre": "Kaname",
       "titulo": "El destello negro",
       "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/Kaname.png",
+      "arte": "imagenes/arte/PropositoPersonajes/kaname.png",
       "descripcion": "Un uma hombre de pelo castaño, ojos rojizos con un traje negro y una corbata roja. Tiene un carácter que desprecia a los demás y no le importa las personas de su alrededor.",
       "historia_personal": "Nació en un laboratorio como el primer uma macho y creció como experimento y marginado. Cuando corría, se volvió el <<destello negro>> Kaname, alguien que ganaba aplastando sueños. Una persona especial le enseñó a reír y le pidió una promesa que lo sigue marcando que pasó de ser alguien que destruía esperanzas a cuidarlas, aunque aún le temen la pista y su pasado. Actualmente es un médico para ayudar a las Umamusume a cumplir sus sueños pero sobre todo intentar perdonarse por todo el daño que hizo en el pasado. ",
       "datos": {
@@ -1170,7 +1170,7 @@
       "nombre": "Haru Urara",
       "titulo": "La esperanza de japon",
       "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/Urara.png",
+      "arte": "imagenes/arte/PropositoPersonajes/urara.png",
       "descripcion": "Tiene cabello rosa y rosado atado hacia atrás en una cola de caballo con un flequillo corto. Sus orejas están cubiertas por tela de color rosado y tiene un lazo blanco en la oreja izquierda. Sus ojos grandes y redondos de color rosado con patrones de pétalos de flores de cerezo en sus iris.",
       "historia_personal": "A pesar de tener una racha de carreras perdidas ¡Pero ella nunca se rinde! Si bien puede que no sea la más hábil su determinación es inspiradora además de ser una estudiante alegre, extremadamente optimista, amable y muy sociable.",
       "datos": {
@@ -1333,7 +1333,7 @@
       "nombre": "Feinberg Agnes",
       "titulo": "La Uma entrenadora cientifica",
       "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/Feinberg.png",
+      "arte": "imagenes/arte/PropositoPersonajes/feinberg.png",
       "descripcion": "Chica de pelo castaño y largo con una personalidad amable, curiosa y algo ingenua, conservando sus conocimientos de ciencia y medicina.Lleva saco gris oscuro, camisa verde oscuro con botones y una cadena plateada con una piedra verde incrustada..    ",
       "historia_personal": "Umamusume que se hace entrenadora porque le alegra ver cómo las Umamusume cumplen sus sueños, y quiere ayudarlas a cumplirlos. Es muy estudiosa y se compromete con las investigaciones y las unas a su cargo, pero carga con un dolor y guarda recuerdos que no son del todo suyos. ",
       "datos": {
